@@ -1,0 +1,12 @@
+{
+  "site_name": "First Serve Pickleball",
+  "owner": "Jay Oku",
+  "tagline": "Beginner-friendly open play and first gear, by city.",
+  "description": "A small directory of beginner-friendly pickleball open play and honest first-gear advice, starting in Southern California.",
+  "base_url": "https://jaydog555.github.io/firstserve-pickleball",
+  "base_path": "/firstserve-pickleball",
+  "region_focus": "Southern California",
+  "features": {
+    "aikai": true
+  }
+}

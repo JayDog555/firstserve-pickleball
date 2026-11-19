@@ -1,0 +1,313 @@
+/* First Serve Pickleball: site-wide styles. Change brand colors here if needed. */
+:root {
+  --bg: #f6f1e7;
+  --bg-card: #fffdf8;
+  --ink: #1c2a22;
+  --ink-soft: #3d4a42;
+  --muted: #5c675f;
+  --line: #d9d0c0;
+  --accent: #0e6b5c;
+  --accent-dark: #0a4f44;
+  --highlight: #d7e36a;
+  --warn-bg: #f4ead4;
+  --max: 42rem;
+  --wide: 58rem;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 112.5%; scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+img { max-width: 100%; height: auto; }
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+a:hover { color: var(--accent-dark); }
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid var(--highlight);
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  left: 0.75rem;
+  top: -3rem;
+  background: var(--ink);
+  color: #fff;
+  padding: 0.4rem 0.75rem;
+  z-index: 10;
+}
+
+.skip-link:focus { top: 0.75rem; }
+
+.site-header {
+  border-bottom: 1px solid var(--line);
+  background: var(--bg-card);
+}
+
+.header-inner,
+.footer-inner,
+.wrap {
+  width: min(var(--wide), calc(100% - 2rem));
+  margin: 0 auto;
+}
+
+.header-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1.5rem;
+  padding: 0.9rem 0;
+}
+
+.brand {
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--ink);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+
+.brand:hover { color: var(--accent-dark); }
+
+.brand span {
+  display: block;
+  font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 0.72rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+}
+
+.nav a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  font-size: 0.92rem;
+}
+
+.nav a:hover,
+.nav a[aria-current="page"] {
+  color: var(--accent-dark);
+  text-decoration: underline;
+}
+
+main { padding: 1.75rem 0 3rem; }
+
+.hero {
+  margin-bottom: 2rem;
+}
+
+.hero p.lede,
+.lede {
+  font-size: 1.1rem;
+  color: var(--ink-soft);
+}
+
+h1, h2, h3 {
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+  line-height: 1.25;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h1 { font-size: 2rem; margin: 0 0 0.75rem; }
+
+h2 {
+  font-size: 1.35rem;
+  margin: 2rem 0 0.6rem;
+  padding-top: 0.4rem;
+}
+
+h3 { font-size: 1.08rem; margin: 1.4rem 0 0.4rem; }
+
+p, li { color: var(--ink); }
+
+.prose { width: min(var(--max), 100%); }
+
+.prose ul, .prose ol { padding-left: 1.2rem; }
+
+.prose li { margin: 0.3rem 0; }
+
+.prose hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 2rem 0;
+}
+
+.city-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+}
+
+.city-card,
+.venue {
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 1rem 1.1rem 1.1rem;
+}
+
+.city-card a {
+  font-family: Georgia, "Iowan Old Style", Palatino, serif;
+  font-size: 1.1rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.city-card a:hover { color: var(--accent); text-decoration: underline; }
+
+.city-card p,
+.meta, .source, .fees, .times {
+  font-size: 0.92rem;
+  color: var(--muted);
+  margin: 0.35rem 0 0;
+}
+
+.venue { margin: 0 0 1.1rem; }
+
+.venue h2 {
+  margin: 0 0 0.25rem;
+  padding: 0;
+  font-size: 1.25rem;
+}
+
+.venue .address {
+  margin: 0 0 0.75rem;
+  color: var(--ink-soft);
+}
+
+.venue dl {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 8.5rem 1fr;
+  gap: 0.45rem 1rem;
+}
+
+.venue dt {
+  margin: 0;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  padding-top: 0.15rem;
+}
+
+.venue dd {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 640px) {
+  .venue dl { grid-template-columns: 1fr; gap: 0.15rem; }
+  .venue dt { padding-top: 0.55rem; }
+}
+
+.notice {
+  background: var(--warn-bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.85rem 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.notice p { margin: 0; }
+
+.empty-listings {
+  background: var(--bg-card);
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  background: var(--bg-card);
+  padding: 1.25rem 0 2rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.site-footer p { margin: 0.3rem 0; }
+
+.site-footer a { color: var(--ink-soft); }
+
+.guide-nav {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  margin: 1.25rem 0 0;
+  padding: 0;
+  list-style: none;
+  width: min(var(--wide), 100%);
+}
+
+.guide-nav a {
+  display: block;
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.guide-nav a:hover { border-color: var(--accent); }
+
+.guide-nav strong { display: block; color: var(--accent-dark); }
+
+.feature-aikai {
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--accent);
+  border-radius: 10px;
+  padding: 1rem 1.15rem 1.1rem;
+  margin: 1.5rem 0;
+  width: min(var(--max), 100%);
+}
+
+.feature-aikai p { margin: 0 0 0.55rem; }
+
+.feature-aikai p:last-child { margin-bottom: 0; }
+
+.feature-kicker {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent-dark);
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.feature-disclosure {
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  border-top: 1px solid var(--line);
+  padding-top: 0.65rem;
+  margin-top: 0.35rem;
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "orange-county-ca",
+  "name": "Orange County, CA",
+  "region": "Southern California",
+  "intro": "Public courts and recreation-center drop-in play verified on official city or county pages as of November 18, 2026. Hours, fees, and rules change, so use the source link before you go. We do not invent listings or copy third-party court directories.",
+  "venues": [
+    {
+      "name": "Mike Ward Community Park",
+      "address": "20 Lake Road, Irvine, CA 92604",
+      "open_play_times": "Park hours are 6 a.m. to 10 p.m. daily. Courts #3 and #4 may be reserved Monday through Sunday, 7 a.m. to noon and 4 to 10 p.m., through yourirvine.org. Those two courts may be used for drop-in play if there is no reservation or if a reservation no-shows; vacate immediately if a reservation holder arrives.",
+      "beginner_friendly_notes": "The city lists eight lighted dedicated pickleball courts here. City of Irvine court regulations say open courts are first-come, first-served and ask players to use the waiting board where available. The city also offers junior and adult group classes and private lessons at this park. Confirm current drop-in vs. reserved court numbers on the official pickleball page.",
+      "fees": "No drop-in court fee is listed on the city's pickleball page. Reservable courts are $17/hour for residents and $19/hour for non-residents (one reservation per person per day, in one- or two-hour increments). Residents may book up to five days in advance; non-residents may book three days in advance.",
+      "source_url": "https://cityofirvine.gov/racket-sports/pickleball",
+      "source_label": "City of Irvine pickleball page (also the Mike Ward park page)",
+      "last_checked": "2026-11-18",
+      "court_info": "8 lighted dedicated pickleball courts",
+      "lights": true
+    },
+    {
+      "name": "Portola Springs Community Park",
+      "address": "900 Tomato Springs, Irvine, CA",
+      "open_play_times": "Park hours are 6 a.m. to 10 p.m. daily. Courts #5 and #6 may be reserved Monday through Sunday, 7 a.m. to noon and 4 to 10 p.m., through yourirvine.org. Those two courts may be used for drop-in play if there is no reservation or if a reservation no-shows; vacate immediately if a reservation holder arrives.",
+      "beginner_friendly_notes": "The city lists six lighted dedicated pickleball courts here, plus hybrid tennis/pickleball courts at the same park. City-sponsored classes are also listed at this location. The city's park page lists ZIP 92620; its pickleball page lists 92618 for this address. Follow park signage and the official map.",
+      "fees": "No drop-in court fee is listed on the city's pickleball page. Reservable courts are $17/hour for residents and $19/hour for non-residents, with the same booking windows as Mike Ward Community Park.",
+      "source_url": "https://cityofirvine.gov/racket-sports/pickleball",
+      "source_label": "City of Irvine pickleball page (also the Portola Springs park page)",
+      "last_checked": "2026-11-18",
+      "court_info": "6 lighted dedicated pickleball courts",
+      "lights": true
+    },
+    {
+      "name": "Worthy Park",
+      "address": "1831 17th Street, Huntington Beach, CA 92648",
+      "open_play_times": "The city's park and amenities pages confirm pickleball courts at this park but do not publish open-play hours. There is no lighting listed for Huntington Beach pickleball courts. Check posted signs or call Community & Library Services at (714) 536-5486 before you go.",
+      "beginner_friendly_notes": "The official amenities list shows four pickleball courts with no lighting. The city's park directory also lists pickleball among the park amenities, along with a playground, picnic shelter, restrooms, and a parking lot. We did not find a current official open-play or paddle-queue rules page for this park.",
+      "fees": "No court fee is listed on the official parks or amenities pages we checked.",
+      "source_url": "https://www.huntingtonbeachca.gov/departments/parks___recreation/parks___facilities/park_amenities.php",
+      "source_label": "City of Huntington Beach park amenities (also the city parks directory)",
+      "last_checked": "2026-11-18",
+      "court_info": "4 pickleball courts, no lighting listed",
+      "lights": false
+    },
+    {
+      "name": "Laguna Niguel Regional Park",
+      "address": "28241 La Paz Road, Laguna Niguel, CA 92677",
+      "open_play_times": "Park hours are 7 a.m. to 6 p.m. in fall and winter, and 7 a.m. to 9 p.m. in spring and summer. OC Parks says pickleball and tennis courts are first come, first served.",
+      "beginner_friendly_notes": "An official OC Parks news release dated May 13, 2026 says the courts were resurfaced and an existing tennis court was converted into four additional pickleball courts, bringing the total to 12 pickleball courts and two tennis courts, available to the public free of charge. The park page lists pickleball among the amenities. This is a large regional park with restrooms and other recreation; budget time for parking and walking to the courts.",
+      "fees": "OC Parks says the pickleball courts are free of charge. Parking is $3 per vehicle Monday through Friday and $5 Saturday through Sunday, with higher fees possible on some holidays and events.",
+      "source_url": "https://www.ocparks.com/parks-trails/laguna-niguel-regional-park",
+      "source_label": "OC Parks Laguna Niguel Regional Park page (also the May 13, 2026 OC Parks news release)",
+      "last_checked": "2026-11-18",
+      "court_info": "12 pickleball courts (per May 13, 2026 OC Parks release)",
+      "lights": null
+    },
+    {
+      "name": "Crown Valley Elementary School pickleball courts",
+      "address": "29292 Crown Valley Parkway, Laguna Niguel, CA",
+      "open_play_times": "The city's sports courts page says hours of operation vary throughout the year depending on scheduling of adjacent baseball fields. Courts are closed on New Year's Day, Easter, the 4th of July, Thanksgiving, the Friday after Thanksgiving, Christmas Eve, Christmas Day, and New Year's Eve. After rain, call the Athletic Field Hotline (Mudline) at (949) 362-4351 after 1 p.m. on weekdays and 7 a.m. on weekends.",
+      "beginner_friendly_notes": "The City of Laguna Niguel lists eight pickleball courts with no lights, reserved for drop-in play only (no reservations). The page says facilities marked this way are reserved for drop-in play by residents as opposed to organized groups. A permit is required for organized play. Read the city's posted pickleball rules before you play.",
+      "fees": "No drop-in fee is listed on the sports courts page. These courts are not available for reservation.",
+      "source_url": "https://www.cityoflagunaniguel.org/1854/Sports-Courts",
+      "source_label": "City of Laguna Niguel sports courts page",
+      "last_checked": "2026-11-18",
+      "court_info": "8 pickleball courts, no lights, drop-in only",
+      "lights": false
+    },
+    {
+      "name": "Felipe Tennis and Recreation Center (and Sierra Recreation Center)",
+      "address": "Felipe: 27161 Nogal, Mission Viejo, CA 92691. Sierra: 26887 Recodo Lane, Mission Viejo, CA 92692.",
+      "open_play_times": "The city's pickleball page lists drop-in play with no reservation required. Morning sessions: Monday through Sunday, 7:15 to 9:30 a.m. (courts labeled social play, intermediate 3.0, advanced 3.5 and up, plus a challenge court). Evening sessions: Monday, Wednesday, and Friday, 5 to 6:30 p.m. (intermediate/social and advanced courts, plus a challenge court). The page uses paddle holders and 2-on/2-off or 4-on/4-off rotation depending on the crowd. Reservation-based court times are also published, with Felipe and Sierra closing at 5 p.m. on Sundays and 7 p.m. on Saturdays. Confirm which center is hosting drop-in that day.",
+      "beginner_friendly_notes": "The official page says morning drop-in includes courts 7 and 8 for social play, which is usually the gentlest place for newer players, and it asks players to check the posted skill level before joining a court. It also says players should already know how to serve and score before coming to drop-in, so this is a better second or third outing than a complete first lesson. The city lists 8 dedicated and 8 joint-use lighted courts at Felipe, and 4 joint-use lighted courts at Sierra. Organized 2.5 and 2.5\u20133.0 play groups are offered separately (not free drop-in).",
+      "fees": "Drop-in is free for members. Guest fees on the city page: $10 daily drop-in for Mission Viejo residents 14 and older, $15 daily drop-in for non-residents 14 and older, and $5 daily drop-in for youth 13 and under. Membership options are also published on the same page.",
+      "source_url": "https://www.missionviejo.gov/departments/recreation/recreation-fitness-tennis/pickleball",
+      "source_label": "City of Mission Viejo pickleball page",
+      "last_checked": "2026-11-18",
+      "court_info": "Felipe: 8 dedicated and 8 joint-use lighted courts. Sierra: 4 joint-use lighted courts.",
+      "lights": true
+    }
+  ],
+  "show_aikai_feature": true
+}

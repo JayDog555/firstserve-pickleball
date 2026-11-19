@@ -1,0 +1,20 @@
+{
+  "slug": "city-name-st",
+  "name": "City Name, ST",
+  "region": "Southern California",
+  "intro": "A short intro for this city or county page. Leave venues empty until each listing is verified on an official parks or venue website.",
+  "venues": [
+    {
+      "name": "",
+      "address": "",
+      "open_play_times": "",
+      "beginner_friendly_notes": "",
+      "fees": "",
+      "source_url": "",
+      "last_checked": "YYYY-MM-DD",
+      "court_info": "",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}
