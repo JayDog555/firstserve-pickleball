@@ -273,6 +273,7 @@ def city_national_nav(config: dict) -> str:
         (href_for("/cities/", base_path), "All US cities"),
         (href_for("/guides/find-open-play/", base_path), "How to find open play"),
         (href_for("/guides/first-paddle/", base_path), "First paddle guide"),
+        (href_for("/guides/what-to-bring/", base_path), "What to bring"),
     ]
     items = "".join(
         f'<a href="{escape(href, quote=True)}">{escape(label)}</a>'
@@ -295,7 +296,7 @@ def render_cities_hub(cities: list[dict], rollout: dict, base_path: str) -> str:
         "<h1>Cities across the United States</h1>",
         "<p class='lede'>Beginner pickleball open play near you, anywhere in the US.</p>",
         "<p>We add a city page only after venues are verified on official parks or venue "
-        "websites. Orange County, CA is our first live city. Other cities on the rollout "
+        "websites. Orange County, CA and Los Angeles, CA are live. Other cities on the rollout "
         "list are marked coming soon and are not linked until a page exists.</p>",
         "</article>",
     ]
@@ -491,12 +492,14 @@ def write_page(
         "cities_index_href": href_for("/cities/", base_path),
         "open_play_href": href_for("/guides/find-open-play/", base_path),
         "paddle_href": href_for("/guides/first-paddle/", base_path),
+        "bring_href": href_for("/guides/what-to-bring/", base_path),
         "coaches_href": href_for("/coaches/", base_path),
         "about_href": href_for("/about/", base_path),
         "aria_home": nav_current(permalink, "/"),
         "aria_cities": nav_current(permalink, "/cities/"),
         "aria_open_play": nav_current(permalink, "/guides/find-open-play/"),
         "aria_paddle": nav_current(permalink, "/guides/first-paddle/"),
+        "aria_bring": nav_current(permalink, "/guides/what-to-bring/"),
         "aria_coaches": nav_current(permalink, "/coaches/"),
         "aria_about": nav_current(permalink, "/about/"),
         "content": body,
@@ -617,7 +620,7 @@ def main() -> None:
         config,
         permalink="/cities/",
         title="Cities across the United States",
-        meta_description="Find beginner pickleball open play near you, anywhere in the US. Orange County, CA is live, with more cities coming soon.",
+        meta_description="Find beginner pickleball open play near you, anywhere in the US. Orange County, CA and Los Angeles, CA are live, with more cities coming soon.",
         body=cities_index_body,
         cities=cities,
     )

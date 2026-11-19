@@ -1,0 +1,117 @@
+{
+  "slug": "los-angeles-ca",
+  "name": "Los Angeles, CA",
+  "region": "Southern California",
+  "intro": "City of Los Angeles public courts verified on the LA City Recreation and Parks website (recreation.parks.lacity.gov, also laparks.org) as of November 18, 2026. The city's pickleball page lists drop-in outdoor courts as first-come, first-served and asks players to call each facility for play times, so we have not listed hours it does not publish. Fee-based reservable courts, indoor programs, and LA County parks are not listed here yet. New to open play? Start with the national guides linked below, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Algin Sutton Recreation Center",
+      "address": "8800 South Hoover St., Los Angeles, CA 90044",
+      "open_play_times": "Not published on the citywide list. The city says to call the facility for play times: (323) 753-5808.",
+      "beginner_friendly_notes": "The city lists this as a drop-in outdoor court: first-come, first-served, with play times available by calling the facility. The Algin Sutton Recreation Center page on the same official site also lists pickleball for this location.",
+      "fees": "Not published for drop-in play on the official pages we checked. Classes listed on the recreation center page are registered separately.",
+      "source_url": "https://recreation.parks.lacity.gov/pickleball",
+      "source_label": "LA City Recreation and Parks pickleball court list",
+      "last_checked": "2026-11-18",
+      "court_info": "1 dedicated court (per the citywide court list)",
+      "lights": null
+    },
+    {
+      "name": "Chatsworth Recreation Center",
+      "address": "22360 Devonshire St., Chatsworth, CA 91311",
+      "open_play_times": "Not published on the citywide list. The city says to call the facility for play times: 818-341-6595.",
+      "beginner_friendly_notes": "The city lists this as a drop-in outdoor court: first-come, first-served, with play times available by calling the facility. The Chatsworth South Recreation Center page on the same official site also lists pickleball for this location. That page lists a fall 2026 Adult Pickleball class (Mondays, 9 to 10 a.m., ages 18+), which may suit a newer player before drop-in.",
+      "fees": "Not published for drop-in play on the official pages we checked. Classes listed on the recreation center page are registered separately.",
+      "source_url": "https://recreation.parks.lacity.gov/pickleball",
+      "source_label": "LA City Recreation and Parks pickleball court list",
+      "last_checked": "2026-11-18",
+      "court_info": "2 dedicated and 2 hybrid courts (per the citywide court list)",
+      "lights": true
+    },
+    {
+      "name": "Encino Recreation Center",
+      "address": "4935 Balboa Blvd., Encino, CA 91316",
+      "open_play_times": "Not published on the citywide list. The city says to call the facility for play times: (818) 995-1690.",
+      "beginner_friendly_notes": "The city lists this as a drop-in outdoor court: first-come, first-served, with play times available by calling the facility. The Encino Community Center page on the same official site also lists pickleball for this location.",
+      "fees": "Not published for drop-in play on the official pages we checked. Classes listed on the recreation center page are registered separately.",
+      "source_url": "https://recreation.parks.lacity.gov/pickleball",
+      "source_label": "LA City Recreation and Parks pickleball court list",
+      "last_checked": "2026-11-18",
+      "court_info": "4 hybrid courts (per the citywide court list)",
+      "lights": true
+    },
+    {
+      "name": "Granada Hills Recreation Center",
+      "address": "16730 Chatsworth St., Granada Hills, CA 91344",
+      "open_play_times": "Not published on the citywide list. The city says to call the facility for play times: (818) 363-3556.",
+      "beginner_friendly_notes": "The city lists this as a drop-in outdoor court: first-come, first-served, with play times available by calling the facility. The Granada Hills Recreation Center page on the same official site also lists pickleball for this location.",
+      "fees": "Not published for drop-in play on the official pages we checked. Classes listed on the recreation center page are registered separately.",
+      "source_url": "https://recreation.parks.lacity.gov/pickleball",
+      "source_label": "LA City Recreation and Parks pickleball court list",
+      "last_checked": "2026-11-18",
+      "court_info": "4 dedicated courts (per the citywide court list)",
+      "lights": true
+    },
+    {
+      "name": "Montecito Heights Recreation Center",
+      "address": "4545 Homer St., Los Angeles, CA 90031",
+      "open_play_times": "Not published on the citywide list. The city says to call the facility for play times: (213) 485-5148.",
+      "beginner_friendly_notes": "The city lists this as a drop-in outdoor court: first-come, first-served, with play times available by calling the facility. The Montecito Heights Recreation Center page on the same official site also lists pickleball for this location. That page also lists a 2026 Winter Pickleball Class.",
+      "fees": "Not published for drop-in play on the official pages we checked. Classes listed on the recreation center page are registered separately.",
+      "source_url": "https://recreation.parks.lacity.gov/pickleball",
+      "source_label": "LA City Recreation and Parks pickleball court list",
+      "last_checked": "2026-11-18",
+      "court_info": "2 dedicated courts (per the citywide court list)",
+      "lights": true
+    },
+    {
+      "name": "Peck Park Community Center",
+      "address": "560 North Western Ave., San Pedro, CA 90732",
+      "open_play_times": "Not published on the citywide list. The city says to call the facility for play times: (310) 548-7580.",
+      "beginner_friendly_notes": "The city lists this as a drop-in outdoor court: first-come, first-served, with play times available by calling the facility. The Peck Park Recreation Center page on the same official site also lists pickleball for this location. That page also lists 2026 fall adult and youth pickleball classes.",
+      "fees": "Not published for drop-in play on the official pages we checked. Classes listed on the recreation center page are registered separately.",
+      "source_url": "https://recreation.parks.lacity.gov/pickleball",
+      "source_label": "LA City Recreation and Parks pickleball court list",
+      "last_checked": "2026-11-18",
+      "court_info": "8 dedicated courts (per the citywide court list)",
+      "lights": true
+    },
+    {
+      "name": "Saint Andrews Recreation Center",
+      "address": "8701 St. Andrews Pl., Los Angeles, CA 90047",
+      "open_play_times": "Not published on the citywide list. The city says to call the facility for play times: (213) 485-1751.",
+      "beginner_friendly_notes": "The city lists this as a drop-in outdoor court: first-come, first-served, with play times available by calling the facility. The Saint Andrews Recreation Center page on the same official site also lists pickleball for this location.",
+      "fees": "Not published for drop-in play on the official pages we checked. Classes listed on the recreation center page are registered separately.",
+      "source_url": "https://recreation.parks.lacity.gov/pickleball",
+      "source_label": "LA City Recreation and Parks pickleball court list",
+      "last_checked": "2026-11-18",
+      "court_info": "1 hybrid court (per the citywide court list)",
+      "lights": true
+    },
+    {
+      "name": "Venice Beach Recreation Center",
+      "address": "1800 Ocean Front Walk, Venice, CA 90291",
+      "open_play_times": "Not published on the citywide list. The city says to call the facility for play times: (310) 396-6764.",
+      "beginner_friendly_notes": "The city lists this as a drop-in outdoor court: first-come, first-served, with play times available by calling the facility. The Venice Beach Recreation Center page on the same official site also lists pickleball for this location.",
+      "fees": "Not published for drop-in play on the official pages we checked. Classes listed on the recreation center page are registered separately.",
+      "source_url": "https://recreation.parks.lacity.gov/pickleball",
+      "source_label": "LA City Recreation and Parks pickleball court list",
+      "last_checked": "2026-11-18",
+      "court_info": "3 hybrid courts (per the citywide court list)",
+      "lights": null
+    },
+    {
+      "name": "Woodland Hills Recreation Center",
+      "address": "5858 Shoup Ave., Woodland Hills, CA 91367",
+      "open_play_times": "Not published on the citywide list. The city says to call the facility for play times: (818) 883-9370.",
+      "beginner_friendly_notes": "The city lists this as a drop-in outdoor court: first-come, first-served, with play times available by calling the facility. The Woodland Hills Recreation Center page on the same official site also lists pickleball for this location. The citywide list shows indoor courts here too; for indoor play, the city says to call to check open play hours or class schedules, and fees may apply.",
+      "fees": "Not published for drop-in play on the official pages we checked. Classes listed on the recreation center page are registered separately.",
+      "source_url": "https://recreation.parks.lacity.gov/pickleball",
+      "source_label": "LA City Recreation and Parks pickleball court list",
+      "last_checked": "2026-11-18",
+      "court_info": "2 hybrid courts (per the citywide court list)",
+      "lights": true
+    }
+  ],
+  "show_aikai_feature": true
+}

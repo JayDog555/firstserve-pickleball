@@ -1,6 +1,6 @@
 # First Serve Pickleball
 
-A small static directory of beginner-friendly pickleball open play and first-gear advice, for players anywhere in the United States. Owned by Jay Oku. Orange County, CA is the first live city page.
+A small static directory of beginner-friendly pickleball open play and first-gear advice, for players anywhere in the United States. Owned by Jay Oku. Orange County, CA was the first live city page, followed by Los Angeles, CA.
 
 The public site name is set in one place: `src/config.json` (`site_name`). Change it there and rebuild.
 
@@ -26,6 +26,7 @@ Source lives in `src/`. The build writes HTML, CSS, `sitemap.xml`, and `robots.t
 | `src/pages/coaches.md` | `dist/coaches/index.html` |
 | `src/pages/find-open-play.md` | `dist/guides/find-open-play/index.html` |
 | `src/pages/first-paddle.md` | `dist/guides/first-paddle/index.html` |
+| `src/pages/what-to-bring.md` | `dist/guides/what-to-bring/index.html` |
 | `src/rollout.json` | national cities hub at `dist/cities/index.html` |
 | `src/cities/*.json` | `dist/cities/<slug>/index.html` |
 | `src/partials/aikai.html` | inserted wherever `{{FEATURE:aikai}}` appears, if `features.aikai` is true |
@@ -39,7 +40,7 @@ National guides:
 
 - How to find beginner-friendly open play (live), including how to find a city or county parks page
 - First paddle guide (live)
-- What to bring
+- What to bring (live)
 - Lessons and clinics
 - Indoor drop-in
 - Reading a parks reservation page
@@ -49,7 +50,7 @@ National guides:
 
 City rollout (only live cities are linked on the site; coming-soon names are plain text):
 
-- West: Orange County, CA (live), Los Angeles, San Diego, Phoenix, Las Vegas, Portland, Seattle, Salt Lake City, Denver
+- West: Orange County, CA (live), Los Angeles, CA (live), San Diego, Phoenix, Las Vegas, Portland, Seattle, Salt Lake City, Denver
 - South Central: Austin, Dallas, Houston
 - Midwest: Chicago
 - Southeast: Atlanta, Nashville, Charlotte, Tampa, Orlando, Miami, Naples, FL

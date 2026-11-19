@@ -69,7 +69,7 @@ Ignore most of the jargon on the wrapper. These are the fields worth reading:
 3. **Eye protection**, especially at busy four-court paddocks where balls arrive from the next game over.
 4. **A simple overgrip, water, and sunscreen.** Glare and heat will end a session faster than a mid-grade paddle will.
 
-A backpack and a premium ball holder can wait.
+A backpack and a premium ball holder can wait. For a full first-session checklist, see [What to bring to your first open play](/guides/what-to-bring/).
 
 ## A simple buying rule
 

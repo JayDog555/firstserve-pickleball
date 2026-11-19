@@ -76,7 +76,7 @@ If a page was updated months ago, call the number on it. The [Orange County, CA 
 
 ## A simple plan for your first visit
 
-Bring a paddle if you have one, or ask at the rec desk whether they lend them. If you can, bring a spare paddle too. A friend may show up empty-handed, a grip can fail, or someone in the queue may be waiting on a loaner. Wear court or tennis shoes, not running shoes. Arrive a little early, watch one game, put your paddle in the queue, and tell people you are new. That is enough.
+Bring a paddle if you have one, or ask at the rec desk whether they lend them. If you can, bring a spare paddle too. A friend may show up empty-handed, a grip can fail, or someone in the queue may be waiting on a loaner. Wear court or tennis shoes, not running shoes. Arrive a little early, watch one game, put your paddle in the queue, and tell people you are new. That is enough. For a fuller checklist, see [What to bring to your first open play](/guides/what-to-bring/).
 
 If a court feels too fast, step out after the game and try a quieter one, or come back for a beginner clinic. The goal is a few good rallies and a reason to return, not a perfect first match.
 
