@@ -1,12 +1,15 @@
 {
   "site_name": "First Serve Pickleball",
   "owner": "Jay Oku",
-  "tagline": "Beginner-friendly open play and first gear, by city.",
-  "description": "A small directory of beginner-friendly pickleball open play and honest first-gear advice, starting in Southern California.",
+  "tagline": "Beginner pickleball open play near you, anywhere in the US.",
+  "description": "Find beginner-friendly pickleball open play near you, anywhere in the US, plus honest first-gear advice. City listings come from official parks pages only.",
   "base_url": "https://jaydog555.github.io/firstserve-pickleball",
   "base_path": "/firstserve-pickleball",
-  "region_focus": "Southern California",
+  "region_focus": "United States",
   "features": {
     "aikai": true
-  }
+  },
+  "coach_discount": "10% off for your students",
+  "reward_paddle": "a free AIKAI Carbon 11.0 paddle",
+  "coach_commission": "a 20% commission on every sale"
 }

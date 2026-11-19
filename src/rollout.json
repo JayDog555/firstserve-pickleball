@@ -1,0 +1,210 @@
+{
+  "regions": [
+    {
+      "name": "West",
+      "groups": [
+        {
+          "state": "California",
+          "cities": [
+            {
+              "name": "Orange County, CA",
+              "slug": "orange-county-ca"
+            },
+            {
+              "name": "Los Angeles",
+              "slug": "los-angeles-ca"
+            },
+            {
+              "name": "San Diego",
+              "slug": "san-diego-ca"
+            }
+          ]
+        },
+        {
+          "state": "Arizona",
+          "cities": [
+            {
+              "name": "Phoenix",
+              "slug": "phoenix-az"
+            }
+          ]
+        },
+        {
+          "state": "Nevada",
+          "cities": [
+            {
+              "name": "Las Vegas",
+              "slug": "las-vegas-nv"
+            }
+          ]
+        },
+        {
+          "state": "Oregon",
+          "cities": [
+            {
+              "name": "Portland",
+              "slug": "portland-or"
+            }
+          ]
+        },
+        {
+          "state": "Washington",
+          "cities": [
+            {
+              "name": "Seattle",
+              "slug": "seattle-wa"
+            }
+          ]
+        },
+        {
+          "state": "Utah",
+          "cities": [
+            {
+              "name": "Salt Lake City",
+              "slug": "salt-lake-city-ut"
+            }
+          ]
+        },
+        {
+          "state": "Colorado",
+          "cities": [
+            {
+              "name": "Denver",
+              "slug": "denver-co"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South Central",
+      "groups": [
+        {
+          "state": "Texas",
+          "cities": [
+            {
+              "name": "Austin",
+              "slug": "austin-tx"
+            },
+            {
+              "name": "Dallas",
+              "slug": "dallas-tx"
+            },
+            {
+              "name": "Houston",
+              "slug": "houston-tx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Midwest",
+      "groups": [
+        {
+          "state": "Illinois",
+          "cities": [
+            {
+              "name": "Chicago",
+              "slug": "chicago-il"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Southeast",
+      "groups": [
+        {
+          "state": "Georgia",
+          "cities": [
+            {
+              "name": "Atlanta",
+              "slug": "atlanta-ga"
+            }
+          ]
+        },
+        {
+          "state": "Tennessee",
+          "cities": [
+            {
+              "name": "Nashville",
+              "slug": "nashville-tn"
+            }
+          ]
+        },
+        {
+          "state": "North Carolina",
+          "cities": [
+            {
+              "name": "Charlotte",
+              "slug": "charlotte-nc"
+            }
+          ]
+        },
+        {
+          "state": "Florida",
+          "cities": [
+            {
+              "name": "Tampa",
+              "slug": "tampa-fl"
+            },
+            {
+              "name": "Orlando",
+              "slug": "orlando-fl"
+            },
+            {
+              "name": "Miami",
+              "slug": "miami-fl"
+            },
+            {
+              "name": "Naples, FL",
+              "slug": "naples-fl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Northeast",
+      "groups": [
+        {
+          "state": "New York",
+          "cities": [
+            {
+              "name": "New York City",
+              "slug": "new-york-city-ny"
+            }
+          ]
+        },
+        {
+          "state": "Massachusetts",
+          "cities": [
+            {
+              "name": "Boston",
+              "slug": "boston-ma"
+            }
+          ]
+        },
+        {
+          "state": "Pennsylvania",
+          "cities": [
+            {
+              "name": "Philadelphia",
+              "slug": "philadelphia-pa"
+            }
+          ]
+        },
+        {
+          "state": "District of Columbia",
+          "cities": [
+            {
+              "name": "Washington, DC",
+              "slug": "washington-dc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

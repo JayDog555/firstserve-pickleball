@@ -1,10 +1,10 @@
 ---
 title: How to find beginner-friendly open play
-meta_description: What pickleball open play means, how paddle stacking works, how skill levels are labeled, and how to read a city parks reservation page.
+meta_description: Find beginner pickleball open play near you, anywhere in the US. Learn how to find your city parks page, what open play means, paddle stacking, skill levels, and how to read a reservation page.
 permalink: /guides/find-open-play/
 ---
 
-Open play is the usual way beginners meet other players without joining a league. It is also where local habits matter. Read the posted rules at the gate, then use this guide to decode what you are looking at.
+Open play is the usual way beginners meet other players without joining a league. This guide works in any US city. Local habits still matter, so read the posted rules at the gate, then use the steps below to find a court and decode what you are looking at.
 
 ## What open play means
 
@@ -19,6 +19,19 @@ It is different from:
 At many public parks, most courts stay open for drop-in, while a few court numbers can be reserved. At some recreation centers, drop-in happens only in published morning or evening windows, and you may pay a guest fee if you are not a member.
 
 If a reservation holder arrives during their booked time, you leave that court, even if your game is not finished. City programs and permitted events usually have priority over casual play.
+
+## How to find open play in your city
+
+Start with official sources, not a third-party court app.
+
+1. Search for "[your city] parks pickleball" or "[your county] parks pickleball." Prefer a .gov site or the official parks and recreation page.
+2. Look for a reservation portal. Many cities use RecDesk, CivicRec, ActiveNet, or a custom account such as a "yourcity.org" login. Note which court numbers are reservable and which stay open for drop-in.
+3. Check community centers and recreation gyms for indoor drop-in calendars. Hours often change by season, and a guest fee or waiver may apply.
+4. A YMCA, JCC, or similar rec nonprofit may offer open play or beginner clinics for members, and sometimes for guests.
+5. Private clubs and indoor facilities may run drop-in for a fee or a membership. Read whether beginners are welcome and whether you need a reservation.
+6. Once you have an official page, use the reservation-page checklist below for hours, fees, skill labels, and reserved vs. drop-in courts.
+
+Our [Orange County, CA listings](/cities/orange-county-ca/) are one worked example, with official source links and last-checked dates. See the [US city list](/cities/) for the national rollout. The parks site is still the authority.
 
 ## Paddle-stacking etiquette
 
@@ -51,15 +64,15 @@ If courts are labeled, join the one that matches you, not the one that looks mos
 
 Official parks sites are written for staff as much as for players. A few fields matter more than the rest:
 
-- **Dedicated vs. hybrid courts.** Dedicated pickleball courts are striped and set up for the game. Hybrid or "overlay" courts are often tennis courts with extra lines. On hybrid courts, tennis players may have priority if they are waiting. The Irvine court-regulations page, for example, says pickleball players must vacate a tennis court when tennis players arrive.
+- **Dedicated vs. hybrid courts.** Dedicated pickleball courts are striped and set up for the game. Hybrid or "overlay" courts are often tennis courts with extra lines. On hybrid courts, tennis players may have priority if they are waiting. For example, in Orange County, CA, the City of Irvine court-regulations page says pickleball players must vacate a tennis court when tennis players arrive.
 - **Which court numbers can be reserved.** A page may say "Courts #3 and #4 are reservable" and leave the rest for drop-in. Show up knowing which is which, or you may be mid-rally when a permit holder arrives.
-- **The booking window.** Resident and non-resident windows are often different (in Irvine, residents can book farther ahead than non-residents). Note whether the reservation system is a city portal, and whether you need an account.
+- **The booking window.** Resident and non-resident windows are often different. For example, in Orange County, CA, Irvine residents can book farther ahead than non-residents. Note whether the reservation system is a city portal, and whether you need an account.
 - **Hours that reservations apply.** Reservations may be limited to morning and evening blocks, with midday left open, or the reverse. Park closing time and light timers are not always the same as reservation hours.
 - **Fees.** Look for resident vs. non-resident rates, whether drop-in is free, and whether parking is separate from court time. A "free court" in a regional park can still have a parking fee.
 - **Priority and commercial use.** City classes, permits, and maintenance usually override drop-in. Paid coaching without a permit is often prohibited.
 - **Weather and closures.** Many cities post a rain hotline or "mudline." Lights may shut off before the park officially closes.
 
-If a page was updated months ago, call the number on it. Our [Orange County listings](/cities/orange-county-ca/) show the official source and the date we last checked, but the parks site is still the authority.
+If a page was updated months ago, call the number on it. The [Orange County, CA listings](/cities/orange-county-ca/) show how we record official sources and last-checked dates. The parks site is still the authority.
 
 ## A simple plan for your first visit
 

@@ -1,10 +1,10 @@
 ---
-title: Beginner-friendly pickleball open play, by city
-meta_description: Find beginner-friendly pickleball open play and honest first-gear advice, starting in Southern California. City listings come from official parks pages only.
+title: Beginner pickleball open play near you, anywhere in the US
+meta_description: Find beginner-friendly pickleball open play near you, anywhere in the US, plus honest first-gear advice. City listings come from official parks pages only.
 permalink: /
 ---
 
-**{{site_name}}** is a small directory for people who want to play pickleball for the first time, or who are still finding their footing. We start in Southern California and grow one verified city at a time.
+**{{site_name}}** helps you find beginner pickleball open play near you, anywhere in the US, and choose first gear without overspending. We publish verified city pages one at a time. Orange County, CA is live, and we add a city only after we check official parks or venue websites.
 
 We focus on two practical questions:
 
@@ -17,10 +17,13 @@ City listings are checked on official city or county parks pages, or on the venu
 
 {{city_list}}
 
+Looking for another city? See the [US city list](/cities/), including places on our coming-soon rollout.
+
 ## Start here
 
-- [How to find beginner-friendly open play](guides/find-open-play/): what open play means, paddle-stacking etiquette, skill levels, and how to read a parks reservation page.
+- [How to find beginner-friendly open play](guides/find-open-play/): what open play means, how to find your local parks page, paddle-stacking etiquette, skill levels, and how to read a reservation page.
 - [First paddle guide](guides/first-paddle/): honest beginner advice on budget paddles, buying used, and which specs actually matter.
+- [Coach Referral Program](/coaches/): for pickleball coaches and instructors anywhere in the US. Students get 10% off with a numbered code. Coaches earn a 20% commission and a free AIKAI Carbon 11.0 paddle after three sales.
 
 {{FEATURE:aikai}}
 

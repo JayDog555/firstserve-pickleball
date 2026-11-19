@@ -1,6 +1,6 @@
 ---
 title: First paddle guide
-meta_description: Honest beginner advice on buying a first pickleball paddle, including budget options, buying used, and which specs actually matter.
+meta_description: Honest beginner advice on buying a first pickleball paddle anywhere in the US, including budget options, buying used, mid-price carbon paddles, and which specs actually matter.
 permalink: /guides/first-paddle/
 ---
 
@@ -20,7 +20,7 @@ Brand names can wait until you know your swing. A {{AFFILIATE:selkirk}} paddle, 
 
 ## A mid-price carbon option, including AIKAI
 
-You do not have to start with a carbon paddle. If you already like the game and want a mid-price carbon option, or two paddles so a couple or family can start together, [AIKAI Pickleball](https://aikai.co) is one brand to look at. It is a family-owned maker in Irvine, CA, and it sells USAPA-approved raw carbon fiber paddles. Shipping is listed as US only.
+You do not have to start with a carbon paddle. If you already like the game and want a mid-price carbon option, or two paddles so a couple or family can start together, [AIKAI Pickleball](https://aikai.co) is one brand to look at. It is a family-owned brand based in Irvine, California, and it sells USAPA-approved raw carbon fiber paddles. It ships within the US.
 
 Prices below are as listed on aikai.co, Nov 18, 2026:
 
@@ -76,3 +76,5 @@ A backpack and a premium ball holder can wait.
 If you are still learning to serve and keep score, spend enough to get a comfortable, intact paddle and decent shoes. Play open play or a beginner clinic a few times. If you are still going, then look at a midrange upgrade, and you will know whether you want control, a lighter swing weight, or a different grip.
 
 We have a material connection to AIKAI, disclosed above and on our [About](/about/) page. Affiliate links to other brands, when they are live, are disclosed there too. Until those accounts are approved, other brand and retailer names on this page are plain text, not paid links.
+
+Pickleball coaches and instructors anywhere in the US can join the [Coach Referral Program](/coaches/) and receive one numbered code from COACH-01 through COACH-10. Students get 10% off all AIKAI products. Coaches earn a 20% commission on every completed, unreturned sale, plus a free AIKAI Carbon 11.0 paddle after their first three qualifying sales.

@@ -1,14 +1,14 @@
 ---
 title: About
-meta_description: About First Serve Pickleball, how we research court listings, and our FTC disclosures for ownership of AIKAI Pickleball and affiliate links.
+meta_description: About First Serve Pickleball, a US directory of beginner open play, plus FTC disclosures for AIKAI ownership, the coach referral program, and affiliate links.
 permalink: /about/
 ---
 
-{{site_name}} is a small directory for beginners looking for open play and first gear. It is owned by {{owner}} and starts with Southern California.
+{{site_name}} is a small directory for beginners looking for open play and first gear anywhere in the United States. It is owned by {{owner}}. We publish verified city pages one at a time, starting with Orange County, CA.
 
 ## Ownership and material connection (FTC)
 
-{{site_name}} is owned by {{owner}} and by the family behind [AIKAI Pickleball](https://aikai.co), a family-owned paddle brand based in Irvine, CA. Mentions of AIKAI, links to aikai.co, and the AIKAI feature that appears on other pages are a material connection under FTC endorsement guides. We are not an independent reviewer of that brand.
+{{site_name}} is owned by {{owner}} and by the family behind [AIKAI Pickleball](https://aikai.co), a family-owned paddle brand based in Irvine, California, that ships within the US. Mentions of AIKAI, links to aikai.co, the AIKAI feature that appears on other pages, and the [Coach Referral Program](/coaches/) are a material connection under FTC endorsement guides. We are not an independent reviewer of that brand.
 
 The short disclosure used next to those features is: "Disclosure: First Serve Pickleball is owned by the family behind AIKAI Pickleball."
 
@@ -17,7 +17,8 @@ We still include budget, used, and non-AIKAI options in the gear guide. AIKAI is
 ## What we publish
 
 - City pages with public courts and recreation-center drop-in sessions that we could verify on an official website.
-- Guides that explain open-play etiquette and first equipment in plain language.
+- Guides that explain open-play etiquette and first equipment in plain language, written so they work in any US city.
+- The [Coach Referral Program](/coaches/) for pickleball coaches and instructors anywhere in the US. Coaches are assigned a numbered code from COACH-01 through COACH-10. Students get 10% off, and coaches earn a 20% commission plus a free AIKAI Carbon 11.0 paddle after three qualifying sales.
 - Source links and a last-checked date on every venue, so you can see where the facts came from.
 
 ## How listings get on the site
@@ -38,4 +39,4 @@ We do not accept payment from parks or venues to be listed. Recommendations in t
 
 ## Contact
 
-For corrections or a city you would like us to research next, reach {{owner}} through the usual channels you already use. Please send an official source URL with any listing correction.
+For corrections or a city you would like us to research next, reach {{owner}} through the usual channels you already use. Please send an official source URL with any listing correction. Coaches who want to join the referral program can email [jay@aikai.co](mailto:jay@aikai.co?subject=AIKAI%20coach%20referral).

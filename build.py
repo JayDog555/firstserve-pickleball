@@ -266,6 +266,75 @@ def lights_label(value) -> str:
     return "Not stated on the official pages we checked"
 
 
+
+def city_national_nav(config: dict) -> str:
+    base_path = site_base_path(config)
+    links = [
+        (href_for("/cities/", base_path), "All US cities"),
+        (href_for("/guides/find-open-play/", base_path), "How to find open play"),
+        (href_for("/guides/first-paddle/", base_path), "First paddle guide"),
+    ]
+    items = "".join(
+        f'<a href="{escape(href, quote=True)}">{escape(label)}</a>'
+        for href, label in links
+    )
+    return f'<nav class="city-back" aria-label="National pages">{items}</nav>'
+
+
+def load_rollout() -> dict:
+    path = SRC / "rollout.json"
+    if not path.exists():
+        return {"regions": []}
+    return load_json(path)
+
+
+def render_cities_hub(cities: list[dict], rollout: dict, base_path: str) -> str:
+    live_by_slug = {city["slug"]: city for city in cities}
+    parts = [
+        "<article class='prose'>",
+        "<h1>Cities across the United States</h1>",
+        "<p class='lede'>Beginner pickleball open play near you, anywhere in the US.</p>",
+        "<p>We add a city page only after venues are verified on official parks or venue "
+        "websites. Orange County, CA is our first live city. Other cities on the rollout "
+        "list are marked coming soon and are not linked until a page exists.</p>",
+        "</article>",
+    ]
+    for region in rollout.get("regions") or []:
+        parts.append(
+            f"<section class='rollout-region'><h2>{escape(region.get('name') or '')}</h2>"
+        )
+        for group in region.get("groups") or []:
+            parts.append(f"<h3>{escape(group.get('state') or '')}</h3>")
+            parts.append("<ul class='rollout-list'>")
+            for item in group.get("cities") or []:
+                slug = item.get("slug")
+                name = item.get("name") or slug or ""
+                if slug and slug in live_by_slug:
+                    href = href_for(f"/cities/{slug}/", base_path)
+                    city = live_by_slug[slug]
+                    count = len([v for v in city.get("venues", []) if v.get("name")])
+                    if count:
+                        summary = f"{count} verified venue{'s' if count != 1 else ''}"
+                    else:
+                        summary = "Live"
+                    parts.append(
+                        "<li class='city-card'>"
+                        f"<a href='{escape(href, quote=True)}'>{escape(name)}</a>"
+                        f"<p>{escape(summary)}</p>"
+                        "</li>"
+                    )
+                else:
+                    parts.append(
+                        "<li class='coming-soon'>"
+                        f"<span class='coming-soon-name'>{escape(name)}</span>"
+                        "<span class='coming-soon-status'>Coming soon</span>"
+                        "</li>"
+                    )
+            parts.append("</ul>")
+        parts.append("</section>")
+    return "\n".join(parts)
+
+
 def render_city_page(city: dict, config: dict) -> str:
     venues = [v for v in city.get("venues", []) if v.get("name")]
     parts = [
@@ -277,6 +346,7 @@ def render_city_page(city: dict, config: dict) -> str:
     if city.get("intro"):
         parts.append(f"<p>{escape(city['intro'])}</p>")
     parts.append("</article>")
+    parts.append(city_national_nav(config))
     if city.get("show_aikai_feature"):
         block = render_feature_block("aikai", config)
         if block:
@@ -421,11 +491,13 @@ def write_page(
         "cities_index_href": href_for("/cities/", base_path),
         "open_play_href": href_for("/guides/find-open-play/", base_path),
         "paddle_href": href_for("/guides/first-paddle/", base_path),
+        "coaches_href": href_for("/coaches/", base_path),
         "about_href": href_for("/about/", base_path),
         "aria_home": nav_current(permalink, "/"),
         "aria_cities": nav_current(permalink, "/cities/"),
         "aria_open_play": nav_current(permalink, "/guides/find-open-play/"),
         "aria_paddle": nav_current(permalink, "/guides/first-paddle/"),
+        "aria_coaches": nav_current(permalink, "/coaches/"),
         "aria_about": nav_current(permalink, "/about/"),
         "content": body,
         "year": str(date.today().year),
@@ -501,6 +573,18 @@ def main() -> None:
         permalink = meta.get("permalink") or "/"
         body = body.replace("{{site_name}}", config["site_name"])
         body = body.replace("{{owner}}", config["owner"])
+        body = body.replace(
+            "{{COACH_DISCOUNT}}",
+            config.get("coach_discount") or "10% off for your students",
+        )
+        body = body.replace(
+            "{{COACH_COMMISSION}}",
+            config.get("coach_commission") or "a 20% commission on every sale",
+        )
+        body = body.replace(
+            "{{REWARD_PADDLE}}",
+            config.get("reward_paddle") or "a free AIKAI Carbon 11.0 paddle",
+        )
         body = replace_affiliates(body, links)
         html_body = render_markdown(body, permalink, base_path)
         if "{{city_list}}" in html_body:
@@ -526,20 +610,14 @@ def main() -> None:
         )
         permalinks.append(permalink)
 
-    cities_index_body = (
-        "<article class='prose'>"
-        "<h1>Cities</h1>"
-        "<p>We start in Southern California and add a city only after venues are verified "
-        "on official parks or venue websites.</p>"
-        "</article>\n"
-        + city_list_html(cities, base_path)
-    )
+    rollout = load_rollout()
+    cities_index_body = render_cities_hub(cities, rollout, base_path)
     write_page(
         template,
         config,
         permalink="/cities/",
-        title="Cities",
-        meta_description="City directories of beginner-friendly pickleball open play, starting in Southern California.",
+        title="Cities across the United States",
+        meta_description="Find beginner pickleball open play near you, anywhere in the US. Orange County, CA is live, with more cities coming soon.",
         body=cities_index_body,
         cities=cities,
     )
