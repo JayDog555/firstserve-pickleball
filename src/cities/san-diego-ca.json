@@ -1,0 +1,55 @@
+{
+  "slug": "san-diego-ca",
+  "name": "San Diego, CA",
+  "region": "Southern California",
+  "intro": "A few example venues, verified on the City of San Diego Parks and Recreation website (sandiego.gov) and the County of San Diego parks website (sdparks.org) as of November 19, 2026. This is not a complete list. The city's pickleball court locations list (updated August 29, 2026) covers many more indoor and outdoor courts, says its open play hours are subject to change, and recommends calling ahead. Outdoor city courts are first come, first served, and the city asks players to bring their own net and equipment. New to open play? Start with the national guides linked below, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Balboa Park Activity Center",
+      "address": "2145 Park Blvd., San Diego, CA 92101",
+      "open_play_times": "Indoor open play: Tuesday and Thursday, 11:00 a.m. to 2:30 p.m.; Wednesday, 1:00 p.m. to 5:00 p.m. (per the center's page and the citywide list). The center's page says pickleball is not offered during high school summer, winter, and spring breaks. Phone: 619-235-5997.",
+      "beginner_friendly_notes": "Indoor gym play, listed on the city's own center page. Check the center's Events and Closures notice for break dates before you go.",
+      "fees": "The citywide court list says facilities are free to use unless otherwise specified. No pickleball fee is published on the center's page.",
+      "source_url": "https://www.sandiego.gov/park-and-recreation/centers/bpac",
+      "source_label": "City of San Diego, Balboa Park Activity Center page",
+      "last_checked": "2026-11-19",
+      "court_info": "5 indoor courts (per the center's page)"
+    },
+    {
+      "name": "North Park Recreation Center",
+      "address": "4044 Idaho St., San Diego, CA 92104",
+      "open_play_times": "Indoor open play: Monday, Wednesday, and Friday, 11:00 a.m. to 3:00 p.m. The same list also shows outdoor pickleball times at this center. Hours are subject to change; call (619) 235-1152.",
+      "beginner_friendly_notes": "Listed on the city's pickleball court locations list with both indoor and outdoor play. Skill levels are not published on the list, so ask the center which sessions suit newer players.",
+      "fees": "The citywide court list says facilities are free to use unless otherwise specified.",
+      "source_url": "https://www.sandiego.gov/sites/default/files/pballlocations.pdf",
+      "source_label": "City of San Diego Pickleball Court Locations (PDF, updated 8.29.2026)",
+      "last_checked": "2026-11-19",
+      "court_info": "5 indoor courts; outdoor courts also listed (per the citywide list)"
+    },
+    {
+      "name": "Pacific Beach Recreation Center",
+      "address": "1405 Diamond St., San Diego, CA 92109",
+      "open_play_times": "Indoor open play: Monday 1:00 to 3:00 p.m.; Tuesday 1:00 to 4:00 p.m.; Wednesday 1:00 to 3:30 p.m.; Thursday 1:00 to 3:00 p.m.; Friday 12:00 to 2:00 p.m. Outdoor courts: 7:30 a.m. to dusk, first come, first served. Hours are subject to change; call (858) 581-9927.",
+      "beginner_friendly_notes": "Weekday indoor sessions plus outdoor courts. For the outdoor courts, the city asks players to bring their own net and equipment.",
+      "fees": "The citywide court list says facilities are free to use unless otherwise specified.",
+      "source_url": "https://www.sandiego.gov/sites/default/files/pballlocations.pdf",
+      "source_label": "City of San Diego Pickleball Court Locations (PDF, updated 8.29.2026)",
+      "last_checked": "2026-11-19",
+      "court_info": "3 indoor courts and 4 outdoor courts (per the citywide list)",
+      "lights": null
+    },
+    {
+      "name": "Waterfront Park (County of San Diego)",
+      "address": "1600 Pacific Highway, San Diego, CA 92101",
+      "open_play_times": "Not published on the official park page. The park page lists park hours of 6 a.m. to 10 p.m. daily and North Information Booth hours of 8 a.m. to 7 p.m.",
+      "beginner_friendly_notes": "Pickleball courts are in the park's north recreation area. The park page says you can stop by the information booth for equipment loans, including pickleball, which helps if you do not own a paddle yet.",
+      "fees": "Not published on the official park page.",
+      "source_url": "https://www.sdparks.org/content/sdparks/en/park-pages/Waterfront.html",
+      "source_label": "County of San Diego Parks and Recreation, Waterfront Park page",
+      "last_checked": "2026-11-19",
+      "court_info": "Court count not published on the official park page",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}
