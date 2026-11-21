@@ -1,0 +1,77 @@
+{
+  "slug": "phoenix-az",
+  "name": "Phoenix, AZ",
+  "region": "Arizona",
+  "intro": "A few example venues, verified on the City of Phoenix Parks and Recreation website (phoenix.gov) as of November 20, 2026. This is not a complete list. The city's Drop-In Pickleball Schedule and Locations flyer for August to December 2026 lists 31 indoor courts at community centers and 62 outdoor courts at city parks. Indoor gym courts require a recreation membership pass or day pass. Schedules change by season, so check the current flyer or call the site before you go. New to open play? Start with the national guides linked below, including our indoor drop-in guide, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Washington Activity Center",
+      "address": "2240 W Citrus Way, Phoenix, AZ",
+      "open_play_times": "Indoor drop-in: Monday and Friday, 10:00 a.m. to 2:00 p.m.; Wednesday, 10:00 a.m. to 1:00 p.m. and 6:00 p.m. to 8:30 p.m.. Phone: 602-262-6971.",
+      "beginner_friendly_notes": "Indoor gym play at a City of Phoenix community center. The flyer says courts may not be available during school breaks, city holidays, and gym maintenance, and to call the site for more information. Skill levels are not published on the flyer, so ask the center which sessions suit newer players.",
+      "fees": "The city's flyer says a recreation membership pass is required for indoor gym court use: day pass adults $2, youth $1. Annual pass: Phoenix residents adults $20, youth $5; nonresidents adults $40, youth $10.",
+      "source_url": "https://www.phoenix.gov/content/dam/phoenix/parkssite/documents/pickleball/2026/2026%20Fall%20Pickleball%20Flyer.pdf",
+      "source_label": "City of Phoenix Drop-In Pickleball Schedule and Locations (PDF, August to December 2026)",
+      "last_checked": "2026-11-20",
+      "court_info": "4 indoor courts (per the city's flyer)"
+    },
+    {
+      "name": "Sunnyslope Community Center",
+      "address": "802 E Vogel Ave., Phoenix, AZ",
+      "open_play_times": "Indoor drop-in: Tuesday and Wednesday, 10:00 a.m. to 2:00 p.m.; Thursday, 10:00 a.m. to 12:00 p.m.. Phone: 602-262-6661.",
+      "beginner_friendly_notes": "Indoor gym play at a City of Phoenix community center. The flyer says courts may not be available during school breaks, city holidays, and gym maintenance, and to call the site for more information. Skill levels are not published on the flyer, so ask the center which sessions suit newer players.",
+      "fees": "The city's flyer says a recreation membership pass is required for indoor gym court use: day pass adults $2, youth $1. Annual pass: Phoenix residents adults $20, youth $5; nonresidents adults $40, youth $10.",
+      "source_url": "https://www.phoenix.gov/content/dam/phoenix/parkssite/documents/pickleball/2026/2026%20Fall%20Pickleball%20Flyer.pdf",
+      "source_label": "City of Phoenix Drop-In Pickleball Schedule and Locations (PDF, August to December 2026)",
+      "last_checked": "2026-11-20",
+      "court_info": "3 indoor courts (per the city's flyer)"
+    },
+    {
+      "name": "Paradise Valley Community Center",
+      "address": "17402 N 40th St., Phoenix, AZ",
+      "open_play_times": "Indoor drop-in: Monday and Wednesday, 9:30 a.m. to 2:30 p.m.. Phone: 602-495-3777.",
+      "beginner_friendly_notes": "Indoor gym play at a City of Phoenix community center. The flyer says courts may not be available during school breaks, city holidays, and gym maintenance, and to call the site for more information. Skill levels are not published on the flyer, so ask the center which sessions suit newer players.",
+      "fees": "The city's flyer says a recreation membership pass is required for indoor gym court use: day pass adults $2, youth $1. Annual pass: Phoenix residents adults $20, youth $5; nonresidents adults $40, youth $10.",
+      "source_url": "https://www.phoenix.gov/content/dam/phoenix/parkssite/documents/pickleball/2026/2026%20Fall%20Pickleball%20Flyer.pdf",
+      "source_label": "City of Phoenix Drop-In Pickleball Schedule and Locations (PDF, August to December 2026)",
+      "last_checked": "2026-11-20",
+      "court_info": "4 indoor courts (per the city's flyer)"
+    },
+    {
+      "name": "Deer Valley Community Center",
+      "address": "2001 W Wahalla Ln., Phoenix, AZ",
+      "open_play_times": "Indoor drop-in: Tuesday, Thursday, and Friday, 12:00 p.m. to 3:30 p.m.. Phone: 602-495-3735.",
+      "beginner_friendly_notes": "Indoor gym play at a City of Phoenix community center. The flyer says courts may not be available during school breaks, city holidays, and gym maintenance, and to call the site for more information. Skill levels are not published on the flyer, so ask the center which sessions suit newer players.",
+      "fees": "The city's flyer says a recreation membership pass is required for indoor gym court use: day pass adults $2, youth $1. Annual pass: Phoenix residents adults $20, youth $5; nonresidents adults $40, youth $10.",
+      "source_url": "https://www.phoenix.gov/content/dam/phoenix/parkssite/documents/pickleball/2026/2026%20Fall%20Pickleball%20Flyer.pdf",
+      "source_label": "City of Phoenix Drop-In Pickleball Schedule and Locations (PDF, August to December 2026)",
+      "last_checked": "2026-11-20",
+      "court_info": "4 indoor courts (per the city's flyer)"
+    },
+    {
+      "name": "Pecos Park",
+      "address": "17010 S 48th St., Phoenix, AZ",
+      "open_play_times": "Outdoor courts open daily, 5:30 a.m. to 10:00 p.m. (per the city's flyer). The same flyer lists indoor drop-in at Pecos Community Center, same address, Monday and Wednesday, 9:00 a.m. to 12:00 p.m. (phone 602-495-5500).",
+      "beginner_friendly_notes": "The largest outdoor pickleball site on the city's flyer. Indoor community center sessions at the same address follow the indoor pass rules on the flyer. Parks Division South office: 602-262-6111.",
+      "fees": "Not published on the city's flyer.",
+      "source_url": "https://www.phoenix.gov/content/dam/phoenix/parkssite/documents/pickleball/2026/2026%20Fall%20Pickleball%20Flyer.pdf",
+      "source_label": "City of Phoenix Drop-In Pickleball Schedule and Locations (PDF, August to December 2026)",
+      "last_checked": "2026-11-20",
+      "court_info": "16 outdoor courts (per the city's flyer); Pecos Community Center lists 3 indoor courts",
+      "lights": null
+    },
+    {
+      "name": "Encanto Sports Complex",
+      "address": "2121 N 15th Ave., Phoenix, AZ",
+      "open_play_times": "Outdoor courts open daily, 6:00 a.m. to 10:00 p.m. (per the city's flyer). Hours can change by season, so call ahead for early sessions.",
+      "beginner_friendly_notes": "Central Phoenix location in the city's Downtown parks district. Skill levels are not published on the flyer. Parks Division Downtown office: 602-262-6412.",
+      "fees": "Not published on the city's flyer.",
+      "source_url": "https://www.phoenix.gov/content/dam/phoenix/parkssite/documents/pickleball/2026/2026%20Fall%20Pickleball%20Flyer.pdf",
+      "source_label": "City of Phoenix Drop-In Pickleball Schedule and Locations (PDF, August to December 2026)",
+      "last_checked": "2026-11-20",
+      "court_info": "3 outdoor courts (per the city's flyer)",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}
