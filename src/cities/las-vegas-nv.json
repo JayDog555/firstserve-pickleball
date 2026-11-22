@@ -1,0 +1,93 @@
+{
+  "slug": "las-vegas-nv",
+  "name": "Las Vegas, NV",
+  "region": "Nevada",
+  "intro": "A few example venues in the Las Vegas Valley, verified on official City of Las Vegas, Clark County, and City of Henderson pages as of November 21, 2026. This is not a complete list. Three agencies run public courts here. The City of Las Vegas lists 35 courts at 8 parks in its March 2026 pickleball post. Clark County says its courts are first-come, first-serve and cannot be reserved, except at Sunset Park. Henderson takes court reservations by phone through its Sports Office. The City of Las Vegas also runs indoor open-play pickleball that requires a fitness membership. Desert heat matters, so check park hours and plan for early or evening play. New to open play? Start with the national guides linked below, including how to read a parks reservation page, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Police Memorial Park",
+      "address": "3250 Metro Academy Way, Las Vegas, NV 89129",
+      "open_play_times": "Park hours are 7 a.m. to 11 p.m., per the city's park page. The page does not post a pickleball open play schedule. The city lists leagues, classes, and open play in its online registration catalog. The city's Adult Sports Leagues page lists this park as an adult pickleball league location, with a Beginner 2.5 to 3.0 division.",
+      "beginner_friendly_notes": "City of Las Vegas park. The city's March 2026 pickleball post says all levels are welcome and lists this park among its court locations. Skill levels are not posted on the park page, so ask the group which court suits newer players. City Parks and Recreation: 702-229-6011.",
+      "fees": "Not published on the park page.",
+      "source_url": "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Police-Memorial-Park",
+      "source_label": "City of Las Vegas park page: Police Memorial Park",
+      "last_checked": "2026-11-21",
+      "court_info": "8 pickleball courts (per the city's park page)",
+      "lights": null
+    },
+    {
+      "name": "Durango Hills Park",
+      "address": "3521 N. Durango Dr., Las Vegas, NV 89129",
+      "open_play_times": "Park hours are 7 a.m. to 11 p.m., per the city's park page. The page does not post a pickleball open play schedule. The city lists leagues, classes, and open play in its online registration catalog. The city's Adult Sports Leagues page lists this park as an adult pickleball league location, with a Beginner 2.5 to 3.0 division.",
+      "beginner_friendly_notes": "City of Las Vegas park. The city's March 2026 pickleball post says all levels are welcome and lists this park among its court locations. Skill levels are not posted on the park page, so ask the group which court suits newer players. City Parks and Recreation: 702-229-6011.",
+      "fees": "Not published on the park page.",
+      "source_url": "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Durango-Hills-Park",
+      "source_label": "City of Las Vegas park page: Durango Hills Park",
+      "last_checked": "2026-11-21",
+      "court_info": "7 pickleball courts (per the city's park page)",
+      "lights": null
+    },
+    {
+      "name": "Bill Briare Family Park",
+      "address": "650 N. Tenaya Way, Las Vegas, NV 89128",
+      "open_play_times": "Park hours are 7 a.m. to 11 p.m., per the city's park page. The page does not post a pickleball open play schedule. The city lists leagues, classes, and open play in its online registration catalog. The city's Adult Sports Leagues page lists this park as an adult pickleball league location, with a Beginner 2.5 to 3.0 division.",
+      "beginner_friendly_notes": "City of Las Vegas park. The city's March 2026 pickleball post says all levels are welcome and lists this park among its court locations. Skill levels are not posted on the park page, so ask the group which court suits newer players. City Parks and Recreation: 702-229-6011.",
+      "fees": "Not published on the park page.",
+      "source_url": "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Bill-Briare-Park",
+      "source_label": "City of Las Vegas park page: Bill Briare Family Park",
+      "last_checked": "2026-11-21",
+      "court_info": "4 pickleball courts (per the city's park page)",
+      "lights": null
+    },
+    {
+      "name": "Aloha Shores Park",
+      "address": "7550 Sauer St., Las Vegas, NV 89128",
+      "open_play_times": "Park hours are 7 a.m. to 11 p.m., per the city's park page. The page does not post a pickleball open play schedule. The city lists leagues, classes, and open play in its online registration catalog.",
+      "beginner_friendly_notes": "City of Las Vegas park. The city's March 2026 pickleball post says all levels are welcome and lists this park among its court locations. Skill levels are not posted on the park page, so ask the group which court suits newer players. City Parks and Recreation: 702-229-6011.",
+      "fees": "Not published on the park page.",
+      "source_url": "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Aloha-Shores-Park",
+      "source_label": "City of Las Vegas park page: Aloha Shores Park",
+      "last_checked": "2026-11-21",
+      "court_info": "4 pickleball courts (per the city's park page)",
+      "lights": null
+    },
+    {
+      "name": "Sunset Park Pickleball Complex (Clark County)",
+      "address": "2601 E. Sunset Rd., Las Vegas, NV 89120",
+      "open_play_times": "Courts 5 to 24 are open to the public for open play, Monday to Sunday, 6 a.m. to 11 p.m., per the county's drop-in reservation page. Courts 5 to 8 are challenge courts with a paddle rack.",
+      "beginner_friendly_notes": "Large county complex with a mix of walk-on and reservable courts. The challenge courts (5 to 8) are usually for stronger players, so newer players may prefer other open courts. Courts 13 to 16 and 21 to 24 can be reserved. Any court that is not reserved is first-come, first-serve. Clark County Sports Unit: 702-455-8241.",
+      "fees": "Open play fee not published. Drop-in reservations are $6 per hour per court, limited to 2 courts and 2 hours, and no more than 6 reservations a month (8 with insurance on file). Booking for the next month opens on the last Wednesday of the current month. The county says no cancellations, changes, credits, or refunds are granted for online reservations.",
+      "source_url": "https://www.clarkcountynv.gov/government/departments/parks___recreation/sports/pickleball/pickleball-drop-in-reservation-information",
+      "source_label": "Clark County Parks and Recreation: Pickleball Drop-In Reservation Information",
+      "last_checked": "2026-11-21",
+      "court_info": "24 courts listed by the county; courts 5 to 24 open to the public",
+      "lights": null
+    },
+    {
+      "name": "Hollywood Park (Clark County)",
+      "address": "1650 S. Hollywood Blvd., Las Vegas, NV 89142",
+      "open_play_times": "First-come, first-serve. The county page does not post court hours or an open play schedule.",
+      "beginner_friendly_notes": "Clark County says its pickleball courts outside Sunset Park cannot be reserved, so play is walk-on. Skill levels are not posted. Clark County Sports Unit: 702-455-8241.",
+      "fees": "Not published on the county page.",
+      "source_url": "https://www.clarkcountynv.gov/government/departments/parks___recreation/facilities/pickle-ball-courts",
+      "source_label": "Clark County Parks and Recreation: Pickleball Courts",
+      "last_checked": "2026-11-21",
+      "court_info": "8 courts (per the county page)",
+      "lights": null
+    },
+    {
+      "name": "Black Mountain Pickleball Park (Henderson)",
+      "address": "599 Greenway Rd., Henderson, NV 89015",
+      "open_play_times": "Park hours are 6 a.m. to 10 p.m., per the city's facility page. An open play schedule is not posted there.",
+      "beginner_friendly_notes": "City of Henderson pickleball park that opened October 15, 2025, with parking, restrooms, and picnic tables listed. The city's pickleball page lists 18 outdoor courts at Black Mountain and says courts can be reserved by calling the Sports Office at 702-267-5717.",
+      "fees": "Not published on the city's pages.",
+      "source_url": "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/432/",
+      "source_label": "City of Henderson facility page: Black Mountain Pickleball Park",
+      "last_checked": "2026-11-21",
+      "court_info": "18 outdoor courts (per the city's pickleball page)",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}

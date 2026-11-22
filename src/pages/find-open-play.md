@@ -31,7 +31,7 @@ Start with official sources, not a third-party court app.
 5. Private clubs and indoor facilities may run drop-in for a fee or a membership. Read whether beginners are welcome and whether you need a reservation.
 6. Once you have an official page, use the reservation-page checklist below for hours, fees, skill labels, and reserved vs. drop-in courts.
 
-Our [Orange County, CA listings](/cities/orange-county-ca/) are one worked example, with official source links and last-checked dates. See the [US city list](/cities/) for the national rollout. The parks site is still the authority.
+Our [Orange County, CA listings](/cities/orange-county-ca/) are one worked example, with official source links and last-checked dates. See the [US city list](/cities/) for the national rollout. The parks site is still the authority. For a fuller walkthrough, see [how to read a parks reservation page](/guides/parks-reservation-page/).
 
 ## Paddle-stacking etiquette
 

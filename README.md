@@ -1,6 +1,6 @@
 # First Serve Pickleball
 
-A small static directory of beginner-friendly pickleball open play and first-gear advice, for players anywhere in the United States. Owned by Jay Oku. Orange County, CA was the first live city page, followed by Los Angeles, CA, San Diego, CA, and Phoenix, AZ.
+A small static directory of beginner-friendly pickleball open play and first-gear advice, for players anywhere in the United States. Owned by Jay Oku. Orange County, CA was the first live city page, followed by Los Angeles, CA, San Diego, CA, Phoenix, AZ, and Las Vegas, NV.
 
 The public site name is set in one place: `src/config.json` (`site_name`). Change it there and rebuild.
 
@@ -29,6 +29,7 @@ Source lives in `src/`. The build writes HTML, CSS, `sitemap.xml`, and `robots.t
 | `src/pages/what-to-bring.md` | `dist/guides/what-to-bring/index.html` |
 | `src/pages/lessons-and-clinics.md` | `dist/guides/lessons-and-clinics/index.html` |
 | `src/pages/indoor-drop-in.md` | `dist/guides/indoor-drop-in/index.html` |
+| `src/pages/parks-reservation-page.md` | `dist/guides/parks-reservation-page/index.html` |
 | `src/rollout.json` | national cities hub at `dist/cities/index.html` |
 | `src/cities/*.json` | `dist/cities/<slug>/index.html` |
 | `src/partials/aikai.html` | inserted wherever `{{FEATURE:aikai}}` appears, if `features.aikai` is true |
@@ -45,14 +46,14 @@ National guides:
 - What to bring (live)
 - Lessons and clinics (live)
 - Indoor drop-in (live)
-- Reading a parks reservation page
+- Reading a parks reservation page (live)
 - Ratings and skill levels explained
 - Etiquette
 - Coach Referral Program (live)
 
 City rollout (only live cities are linked on the site; coming-soon names are plain text):
 
-- West: Orange County, CA (live), Los Angeles, CA (live), San Diego, CA (live), Phoenix, AZ (live), Las Vegas, Portland, Seattle, Salt Lake City, Denver
+- West: Orange County, CA (live), Los Angeles, CA (live), San Diego, CA (live), Phoenix, AZ (live), Las Vegas, NV (live), Portland, Seattle, Salt Lake City, Denver
 - South Central: Austin, Dallas, Houston
 - Midwest: Chicago
 - Southeast: Atlanta, Nashville, Charlotte, Tampa, Orlando, Miami, Naples, FL
