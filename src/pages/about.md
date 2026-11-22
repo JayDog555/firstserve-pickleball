@@ -18,7 +18,7 @@ We still include budget, used, and non-AIKAI options in the gear guide. AIKAI is
 
 - City pages with public courts and recreation-center drop-in sessions that we could verify on an official website.
 - Guides that explain open-play etiquette and first equipment in plain language, written so they work in any US city.
-- The [Coach Referral Program](/coaches/) for pickleball coaches and instructors anywhere in the US. Coaches are assigned a numbered code from COACH-01 through COACH-10. Students get 10% off, and coaches earn a 20% commission plus a free AIKAI Carbon 11.0 paddle after three qualifying sales.
+- The [Coach Referral Program](/coaches/) for pickleball coaches and instructors anywhere in the US. Coaches are assigned a numbered code from COACH-01 through COACH-10. Students get 15% off, and the code cannot be combined with holiday pricing or other promotions. Coaches earn $15 for each referred sale, plus a free AIKAI Carbon 11.0 paddle (to use as a demo or to sell) after three referred sales and a testimonial posted on the AIKAI site or wherever AIKAI shows up in search.
 - Source links and a last-checked date on every venue, so you can see where the facts came from.
 
 ## How listings get on the site

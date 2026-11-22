@@ -27,7 +27,7 @@ Looking for another city? See the [US city list](/cities/), including places on 
 - [Lessons and clinics](guides/lessons-and-clinics/): private lessons vs. group clinics vs. beginner intro sessions, where to find them, what to ask before you book, and what a first clinic usually covers.
 - [Indoor drop-in](guides/indoor-drop-in/): rec centers, YMCAs, indoor clubs, and gyms, how sign-ups, day passes, and memberships usually work, indoor balls, non-marking shoes, and paddle-stack etiquette.
 - [How to read a parks reservation page](guides/parks-reservation-page/): court types, first-come vs. reservable courts, resident and non-resident fees, booking windows, cancellation rules, and open play vs. private booking.
-- [Coach Referral Program](/coaches/): for pickleball coaches and instructors anywhere in the US. Students get 10% off with a numbered code. Coaches earn a 20% commission and a free AIKAI Carbon 11.0 paddle after three sales.
+- [Coach Referral Program](/coaches/): for pickleball coaches and instructors anywhere in the US. Students get 15% off with a numbered code. The code cannot be combined with holiday pricing or other promotions. Coaches earn $15 for each referred sale, and a free AIKAI Carbon 11.0 paddle (to use as a demo or to sell) after three referred sales plus a testimonial posted on the AIKAI site or wherever AIKAI shows up in search.
 
 {{FEATURE:aikai}}
 

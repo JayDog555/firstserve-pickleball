@@ -112,8 +112,8 @@ When `features.aikai` is `false`, the token is removed and city-page features ar
 The page at `/coaches/` uses config values for the promo details:
 
 ```json
-"coach_discount": "10% off for your students",
-"coach_commission": "a 20% commission on every sale",
+"coach_discount": "15% off",
+"coach_commission": "$15 for each referred sale",
 "reward_paddle": "a free AIKAI Carbon 11.0 paddle"
 ```
 

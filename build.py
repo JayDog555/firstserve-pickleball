@@ -587,11 +587,11 @@ def main() -> None:
         body = body.replace("{{owner}}", config["owner"])
         body = body.replace(
             "{{COACH_DISCOUNT}}",
-            config.get("coach_discount") or "10% off for your students",
+            config.get("coach_discount") or "15% off",
         )
         body = body.replace(
             "{{COACH_COMMISSION}}",
-            config.get("coach_commission") or "a 20% commission on every sale",
+            config.get("coach_commission") or "$15 for each referred sale",
         )
         body = body.replace(
             "{{REWARD_PADDLE}}",
