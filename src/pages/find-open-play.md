@@ -58,6 +58,8 @@ Many parks and rec centers borrow the USA Pickleball self-rating scale. You do n
 
 A **challenge court** is typically for stronger players. Winners stay, or the format is posted. It is a poor first stop for a new player.
 
+For the official USA Pickleball descriptions, self-rating vs. DUPR, and how sessions use levels, see [ratings and skill levels explained](/guides/ratings-and-skill-levels/).
+
 If courts are labeled, join the one that matches you, not the one that looks most exciting. A social or 2.5 court is doing you a favor. If nothing is labeled, say "I'm new. Is this a good court for a beginner?" before you step in.
 
 ## How to read a parks reservation page

@@ -1,0 +1,117 @@
+{
+  "slug": "portland-or",
+  "name": "Portland, OR",
+  "region": "Oregon",
+  "intro": "A few example venues, verified on Portland Parks & Recreation (PP&R) pages at portland.gov as of November 22, 2026. This is not a complete list. PP&R's pickleball page lists six parks with outdoor courts, all free and first-come, first-served from dawn to dusk, and indoor drop-in at community centers for $6 for adults and $5 for seniors. Several outdoor sites require you to bring your own net. St. Johns Community Center is also listed for indoor play, but its page says the gymnasium is temporarily closed, so it is not included here. PP&R also lists seasonal registered mixers at the Portland Tennis Center from mid June to early September. Weather and schedules change, so check the official page before you go. New to open play? Start with the national guides linked below, including our ratings and skill levels guide, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Gabriel Park",
+      "address": "4508 SW Nevada St., Portland, OR 97219",
+      "open_play_times": "Outdoor courts are first-come, first-served, dawn to dusk, per PP&R. No open play schedule is published for this park. PP&R asks players to limit play to 60 minutes when others are waiting.",
+      "beginner_friendly_notes": "Nets are included, so you can show up with a paddle and balls. Amenities listed by PP&R: restrooms and water. PP&R says no reservations are taken, single players may not hold a court until a partner arrives, and players should wait outside the fence for others to finish.",
+      "fees": "Free, per the PP&R pickleball page.",
+      "source_url": "https://www.portland.gov/parks/recreation/pickleball",
+      "source_label": "Portland Parks & Recreation pickleball page (portland.gov)",
+      "last_checked": "2026-11-22",
+      "court_info": "6 outdoor pickleball-only hard courts, permanent lines, nets included",
+      "lights": null
+    },
+    {
+      "name": "Laurelhurst Park",
+      "address": "3789 SE Oak St., Portland, OR 97214",
+      "open_play_times": "Outdoor courts are first-come, first-served, dawn to dusk, per PP&R. No open play schedule is published for this park. PP&R asks players to limit play to 60 minutes when others are waiting.",
+      "beginner_friendly_notes": "Nets are included, so you can show up with a paddle and balls. Amenities listed by PP&R: restrooms and water. PP&R says no reservations are taken, single players may not hold a court until a partner arrives, and players should wait outside the fence for others to finish.",
+      "fees": "Free, per the PP&R pickleball page.",
+      "source_url": "https://www.portland.gov/parks/recreation/pickleball",
+      "source_label": "Portland Parks & Recreation pickleball page (portland.gov)",
+      "last_checked": "2026-11-22",
+      "court_info": "2 outdoor pickleball-only hard courts, permanent lines, nets included",
+      "lights": null
+    },
+    {
+      "name": "Sellwood Park",
+      "address": "7987 SE Grand Ave., Portland, OR 97202",
+      "open_play_times": "Outdoor courts are first-come, first-served, dawn to dusk, per PP&R. No open play schedule is published for this park. PP&R asks players to limit play to 60 minutes when others are waiting.",
+      "beginner_friendly_notes": "Bring your own portable net. The courts have permanent lines. Amenities listed by PP&R: restrooms and water. PP&R says no reservations are taken, single players may not hold a court until a partner arrives, and players should wait outside the fence for others to finish.",
+      "fees": "Free, per the PP&R pickleball page.",
+      "source_url": "https://www.portland.gov/parks/recreation/pickleball",
+      "source_label": "Portland Parks & Recreation pickleball page (portland.gov)",
+      "last_checked": "2026-11-22",
+      "court_info": "8 outdoor hard courts, permanent lines, bring your own net",
+      "lights": null
+    },
+    {
+      "name": "Columbia Park",
+      "address": "4503 N Lombard St., Portland, OR 97203",
+      "open_play_times": "Outdoor courts are first-come, first-served, dawn to dusk, per PP&R. No open play schedule is published for this park. PP&R asks players to limit play to 60 minutes when others are waiting.",
+      "beginner_friendly_notes": "Bring your own portable net. The courts have permanent lines. Amenities listed by PP&R: restrooms and water. PP&R says no reservations are taken, single players may not hold a court until a partner arrives, and players should wait outside the fence for others to finish.",
+      "fees": "Free, per the PP&R pickleball page.",
+      "source_url": "https://www.portland.gov/parks/recreation/pickleball",
+      "source_label": "Portland Parks & Recreation pickleball page (portland.gov)",
+      "last_checked": "2026-11-22",
+      "court_info": "8 outdoor hard courts, permanent lines, bring your own net",
+      "lights": null
+    },
+    {
+      "name": "Pier Park",
+      "address": "10325 N Lombard St., Portland, OR 97203",
+      "open_play_times": "Outdoor courts are first-come, first-served, dawn to dusk, per PP&R. No open play schedule is published for this park. PP&R asks players to limit play to 60 minutes when others are waiting.",
+      "beginner_friendly_notes": "Bring your own portable net. The courts have permanent lines. Amenities listed by PP&R: restrooms. PP&R says no reservations are taken, single players may not hold a court until a partner arrives, and players should wait outside the fence for others to finish.",
+      "fees": "Free, per the PP&R pickleball page.",
+      "source_url": "https://www.portland.gov/parks/recreation/pickleball",
+      "source_label": "Portland Parks & Recreation pickleball page (portland.gov)",
+      "last_checked": "2026-11-22",
+      "court_info": "4 outdoor concrete courts, permanent lines, bring your own net",
+      "lights": null
+    },
+    {
+      "name": "Hillside Park",
+      "address": "653 NW Culpepper Terrace, Portland, OR 97210",
+      "open_play_times": "Outdoor courts are first-come, first-served, dawn to dusk, per PP&R. No open play schedule is published for this park. PP&R asks players to limit play to 60 minutes when others are waiting.",
+      "beginner_friendly_notes": "A single court. Bring your own portable net. PP&R lists no amenities for this park. PP&R says no reservations are taken, single players may not hold a court until a partner arrives, and players should wait outside the fence for others to finish.",
+      "fees": "Free, per the PP&R pickleball page.",
+      "source_url": "https://www.portland.gov/parks/recreation/pickleball",
+      "source_label": "Portland Parks & Recreation pickleball page (portland.gov)",
+      "last_checked": "2026-11-22",
+      "court_info": "1 outdoor pickleball-only hard court, bring your own net",
+      "lights": null
+    },
+    {
+      "name": "Southwest Community Center",
+      "address": "6820 SW 45th Ave., Portland, OR 97219",
+      "open_play_times": "Indoor drop-in pickleball. The center's page links to a drop-in Sports calendar for basketball and pickleball on the PP&R online calendar; times are not listed on the page itself. Center hours on the page: Monday through Friday 5:30 a.m. to 9 p.m., Saturday 7 a.m. to 5 p.m., Sunday 8 a.m. to 5 p.m. Front desk: 503-823-2840.",
+      "beginner_friendly_notes": "No sign-up needed for drop-in; access is included with daily admission, per the center's page. PP&R also lists registered pickleball activities here, which require an ActiveNet account and pre-registration. Skill levels are not published on the PP&R pages, so ask the front desk which sessions suit newer players.",
+      "fees": "Drop-in daily admission on the center's page: adults (18 to 59) $6, seniors (60 and older) $5, teens (13 to 17) $5, youth (3 to 12) $4. Access Discount pricing is available.",
+      "source_url": "https://www.portland.gov/parks/southwest-community-center",
+      "source_label": "PP&R Southwest Community Center page (portland.gov)",
+      "last_checked": "2026-11-22",
+      "court_info": "5 indoor courts (per the PP&R pickleball page)",
+      "lights": null
+    },
+    {
+      "name": "East Portland Community Center",
+      "address": "740 SE 106th Ave., Portland, OR 97216",
+      "open_play_times": "Indoor drop-in pickleball is listed on the PP&R pickleball page. Times are on the center's drop-in calendar, linked from its portland.gov page. The center's page says it is open seven days a week. Front desk: 503-823-3450.",
+      "beginner_friendly_notes": "Drop-in activities do not need advance sign-up; access is included with daily admission, per the center's page. Skill levels are not published on the PP&R pages, so call the front desk to ask which sessions suit newer players.",
+      "fees": "$6 for adults and $5 for seniors, per the PP&R pickleball page. The center's page lists daily admission of $6 for adults (18 to 59) and $5 for seniors (60 and older).",
+      "source_url": "https://www.portland.gov/parks/east-portland-community-center",
+      "source_label": "PP&R East Portland Community Center page (portland.gov)",
+      "last_checked": "2026-11-22",
+      "court_info": "4 indoor courts (per the PP&R pickleball page)",
+      "lights": null
+    },
+    {
+      "name": "Montavilla Community Center",
+      "address": "8219 NE Glisan St., Portland, OR 97220",
+      "open_play_times": "Indoor drop-in pickleball. The center's page links to a Pickleball drop-in schedule on the PP&R online calendar, noted as beginning Monday, September 14; times are not listed on the page itself. The page says the center is open Monday through Saturday. Front desk: 503-823-4101.",
+      "beginner_friendly_notes": "A neighborhood community center with a gym. You do not sign up ahead; you pay at the front desk when you arrive for the scheduled activity, per the center's page. Skill levels are not published, so ask the front desk which sessions suit newer players.",
+      "fees": "Adults (18 to 59) $6, seniors (60 and older) $5, per the center's page.",
+      "source_url": "https://www.portland.gov/parks/montavilla-community-center",
+      "source_label": "PP&R Montavilla Community Center page (portland.gov)",
+      "last_checked": "2026-11-22",
+      "court_info": "3 indoor courts (per the PP&R pickleball page)",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}
