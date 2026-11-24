@@ -47,6 +47,8 @@ Other common courtesies: stay off the court and out of the sidelines until it is
 
 The posted sign always wins over habit. If there is no sign, ask the next group how the queue works before you set a paddle down.
 
+For score calling, line calls, and other court manners, see [pickleball etiquette for beginners](/guides/etiquette/).
+
 ## Skill levels, in plain language
 
 Many parks and rec centers borrow the USA Pickleball self-rating scale. You do not need an official rating to play rec open play. You do need an honest sense of where you are.

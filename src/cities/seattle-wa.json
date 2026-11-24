@@ -1,0 +1,105 @@
+{
+  "slug": "seattle-wa",
+  "name": "Seattle, WA",
+  "region": "Washington",
+  "intro": "A few example venues, verified on Seattle Parks and Recreation pages at seattle.gov as of November 23, 2026. This is not a complete list. The Seattle Parks pickleball page lists outdoor courts across the city, a mix of dedicated pickleball courts and tennis courts striped for pickleball, and says community centers offer free indoor drop-in pickleball with no registration, though you must check in at the front desk. Outdoor courts that are not booked are open for drop-in, first come, first served, for up to 90 minutes. Nets are supplied at many courts but not all, so bring your own net where courts outnumber Parks-supplied nets. Seattle Parks says it is developing a racquet sports strategy for its outdoor courts, so court use may change. Schedules change, so check the official page before you go. New to open play? Start with the national guides linked below, including our etiquette guide, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Green Lake Park (East)",
+      "address": "7201 E Green Lake Dr. N, Seattle, WA 98115 (park address on the Green Lake Park page)",
+      "open_play_times": "Outdoor courts. When courts are not booked, they are open for drop-in use, first come, first served, for a 90-minute maximum, per Seattle Parks. Drop-in players must yield to someone with proof of a reservation. No open play schedule is published for this park. Park hours on the park's page: 4 a.m. to 11:30 p.m.",
+      "beginner_friendly_notes": "Seattle Parks lists a rolling net for each court here, so you can show up with a paddle and balls. Reservations are managed by Amy Yee Tennis Center and must be made at least 24 hours and up to two weeks ahead, per Seattle Parks, which also says only tennis courts with dual pickleball striping may be used for pickleball. Skill levels are not published.",
+      "fees": "Drop-in fee not published on the Seattle Parks pickleball page. Court reservations go through Amy Yee Tennis Center.",
+      "source_url": "https://www.seattle.gov/parks/sports/pickleball",
+      "source_label": "Seattle Parks and Recreation pickleball page (seattle.gov)",
+      "last_checked": "2026-11-23",
+      "court_info": "6 outdoor pickleball courts and 6 Parks-supplied rolling nets, per the Seattle Parks pickleball page (listed as Green Lake Park (East))",
+      "lights": null
+    },
+    {
+      "name": "Miller Playfield",
+      "address": "330 19th Ave. E, Seattle, WA 98112",
+      "open_play_times": "Outdoor courts. When courts are not booked, they are open for drop-in use, first come, first served, for a 90-minute maximum, per Seattle Parks. Drop-in players must yield to someone with proof of a reservation. No open play schedule is published for this park. Park hours on the park's page: 6 a.m. to 10 p.m.",
+      "beginner_friendly_notes": "Seattle Parks lists a rolling net for each court here, so you can show up with a paddle and balls. Miller Community Center is at the same address and also runs indoor drop-in. Reservations are managed by Amy Yee Tennis Center and must be made at least 24 hours and up to two weeks ahead, per Seattle Parks, which also says only tennis courts with dual pickleball striping may be used for pickleball. Skill levels are not published.",
+      "fees": "Drop-in fee not published on the Seattle Parks pickleball page. Court reservations go through Amy Yee Tennis Center.",
+      "source_url": "https://www.seattle.gov/parks/sports/pickleball",
+      "source_label": "Seattle Parks and Recreation pickleball page (seattle.gov)",
+      "last_checked": "2026-11-23",
+      "court_info": "4 outdoor pickleball courts and 4 Parks-supplied rolling nets, per the Seattle Parks pickleball page (listed as Miller Playfield)",
+      "lights": null
+    },
+    {
+      "name": "Delridge Playfield",
+      "address": "4458 Delridge Way SW, Seattle, WA 98106",
+      "open_play_times": "Outdoor courts. When courts are not booked, they are open for drop-in use, first come, first served, for a 90-minute maximum, per Seattle Parks. Drop-in players must yield to someone with proof of a reservation. No open play schedule is published for this park. Park hours on the park's page: 4 a.m. to 11:30 p.m.",
+      "beginner_friendly_notes": "Seattle Parks lists a rolling net for each court here, so you can show up with a paddle and balls. Reservations are managed by Amy Yee Tennis Center and must be made at least 24 hours and up to two weeks ahead, per Seattle Parks, which also says only tennis courts with dual pickleball striping may be used for pickleball. Skill levels are not published.",
+      "fees": "Drop-in fee not published on the Seattle Parks pickleball page. Court reservations go through Amy Yee Tennis Center.",
+      "source_url": "https://www.seattle.gov/parks/sports/pickleball",
+      "source_label": "Seattle Parks and Recreation pickleball page (seattle.gov)",
+      "last_checked": "2026-11-23",
+      "court_info": "4 outdoor pickleball courts and 4 Parks-supplied rolling nets, per the Seattle Parks pickleball page (listed as Delridge Playfield)",
+      "lights": null
+    },
+    {
+      "name": "Ballard Community Center",
+      "address": "6020 28th Ave NW, Seattle, WA 98107",
+      "open_play_times": "Indoor drop-in pickleball, Fall 2026 schedule on the center's page: Tuesday and Thursday 10:00 a.m. to 12:30 p.m., and Wednesday 6:15 p.m. to 8:45 p.m. Ages 15 and older. Center hours on the page: Fall 2026 (begins Sept 8), Monday through Friday 10 a.m. to 9 p.m., Saturday 10 a.m. to 6 p.m., Sunday 10 a.m. to 3 p.m. Front desk: (206) 684-4093.",
+      "beginner_friendly_notes": "No registration required, but you must check in at the front desk, per the Seattle Parks pickleball page. The center's page says to sign in for drop-in programs with a free Quick Card, which you get at the front desk when you sign up for an ActiveNet account. Skill levels are not published, so ask the front desk which sessions suit newer players.",
+      "fees": "Free, per the Seattle Parks pickleball page.",
+      "source_url": "https://www.seattle.gov/parks/community-centers/ballard-community-center",
+      "source_label": "Seattle Parks Ballard Community Center page (seattle.gov)",
+      "last_checked": "2026-11-23",
+      "court_info": "Indoor gym. Court count not published.",
+      "lights": null
+    },
+    {
+      "name": "Magnolia Community Center",
+      "address": "2550 34th Ave W, Seattle, WA 98199",
+      "open_play_times": "Indoor drop-in pickleball, Fall 2026 schedule on the center's page: Adult Pickleball, Monday and Tuesday 10:00 a.m. to 1:00 p.m., and Thursday 11:00 a.m. to 1:00 p.m. Ages 18 and older. Center hours on the page: year round, Monday through Friday 9 a.m. to 8 p.m., Saturday 9 a.m. to 5 p.m., closed Sunday. Front desk: (206) 386-4235.",
+      "beginner_friendly_notes": "No registration required, but you must check in at the front desk, per the Seattle Parks pickleball page. The center's page says to sign in for drop-in programs with a free Quick Card, which you get at the front desk when you sign up for an ActiveNet account. Skill levels are not published, so ask the front desk which sessions suit newer players.",
+      "fees": "Free, per the Seattle Parks pickleball page.",
+      "source_url": "https://www.seattle.gov/parks/community-centers/magnolia-community-center",
+      "source_label": "Seattle Parks Magnolia Community Center page (seattle.gov)",
+      "last_checked": "2026-11-23",
+      "court_info": "Indoor gym. Court count not published.",
+      "lights": null
+    },
+    {
+      "name": "Northgate Community Center",
+      "address": "10510 5th Ave NE, Seattle, WA 98125",
+      "open_play_times": "Indoor drop-in pickleball, Fall 2026 schedule on the center's page: Monday and Friday 9:30 a.m. to 2:00 p.m., and Wednesday 9:30 a.m. to 1:00 p.m. Ages 18 and older. Center hours on the page: year round, Monday through Friday 9 a.m. to 8 p.m., closed Saturday and Sunday. Front desk: (206) 386-4283.",
+      "beginner_friendly_notes": "No registration required, but you must check in at the front desk, per the Seattle Parks pickleball page. The center's page says to sign in for drop-in programs with a free Quick Card, which you get at the front desk when you sign up for an ActiveNet account. Skill levels are not published, so ask the front desk which sessions suit newer players.",
+      "fees": "Free, per the Seattle Parks pickleball page.",
+      "source_url": "https://www.seattle.gov/parks/community-centers/northgate-community-center",
+      "source_label": "Seattle Parks Northgate Community Center page (seattle.gov)",
+      "last_checked": "2026-11-23",
+      "court_info": "Indoor gym. Court count not published.",
+      "lights": null
+    },
+    {
+      "name": "Miller Community Center",
+      "address": "330 19th Ave E, Seattle, WA 98112",
+      "open_play_times": "Indoor drop-in pickleball, Fall 2026 schedule on the center's page: Monday 10 a.m. to 1 p.m., and Wednesday 10 a.m. to 2:15 p.m. The page also lists a Wednesday afternoon session, 12:45 to 2:15 p.m. Ages 18 and older. Center hours on the page: year round, Monday through Thursday 10 a.m. to 8:30 p.m., Friday 10 a.m. to 8 p.m., closed Saturday and Sunday. Front desk: (206) 684-4753.",
+      "beginner_friendly_notes": "No registration required, but you must check in at the front desk, per the Seattle Parks pickleball page. The center's page says to sign in for drop-in programs with a free Quick Card, which you get at the front desk when you sign up for an ActiveNet account. Skill levels are not published, so ask the front desk which sessions suit newer players.",
+      "fees": "Free, per the Seattle Parks pickleball page.",
+      "source_url": "https://www.seattle.gov/parks/community-centers/miller-community-center",
+      "source_label": "Seattle Parks Miller Community Center page (seattle.gov)",
+      "last_checked": "2026-11-23",
+      "court_info": "Indoor gym. Court count not published.",
+      "lights": null
+    },
+    {
+      "name": "Yesler Community Center",
+      "address": "917 E Yesler Way, Seattle, WA 98122",
+      "open_play_times": "Indoor drop-in pickleball, Fall 2026 schedule on the center's page: Adult Pickleball, Tuesday and Thursday 9:00 a.m. to noon. Ages 18 and older. Center hours on the page: Fall 2026 (begins Sept. 8), Monday through Friday 7:30 a.m. to 7:00 p.m., Saturday 8:00 a.m. to 4:30 p.m., closed Sunday. Front desk: (206) 386-1245.",
+      "beginner_friendly_notes": "No registration required, but you must check in at the front desk, per the Seattle Parks pickleball page. The center's page says to sign in for drop-in programs with a free Quick Card, which you get at the front desk when you sign up for an ActiveNet account. Skill levels are not published, so ask the front desk which sessions suit newer players.",
+      "fees": "Free, per the Seattle Parks pickleball page.",
+      "source_url": "https://www.seattle.gov/parks/community-centers/yesler-community-center",
+      "source_label": "Seattle Parks Yesler Community Center page (seattle.gov)",
+      "last_checked": "2026-11-23",
+      "court_info": "Indoor gym. Court count not published.",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}
