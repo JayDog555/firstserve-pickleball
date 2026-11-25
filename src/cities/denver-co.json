@@ -1,0 +1,45 @@
+{
+  "slug": "denver-co",
+  "name": "Denver, CO",
+  "region": "Colorado",
+  "intro": "A few example venues, verified on Denver Parks and Recreation (DPR) pages at denvergov.org as of November 24, 2026. This is not a complete list. DPR's Park Amenities page lists outdoor pickleball courts at seven parks and indoor pickleball at 18 recreation centers, with pickleball hours posted on each center's gymnasium schedule. Indoor drop-in at a recreation center requires a current membership or visit pass. DPR notes that its recreation centers close on city-observed holidays. Schedules change, so check the official page or call the center before you go. New to open play? Start with the national guides linked below, including our etiquette guide, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Eisenhower Recreation Center and Eisenhower Park quiet courts",
+      "address": "4300 E. Dartmouth Ave., Denver, CO 80222",
+      "open_play_times": "Indoor pickleball hours are posted on the center's gymnasium schedule, which is linked from the center page. The outdoor quiet courts at Eisenhower Park follow the recreation center's hours, because staff open and close them, per the DPR Park Amenities page. Center hours on the center page: Monday through Thursday 7:00 a.m. to 8:00 p.m., Friday 7:00 a.m. to 7:00 p.m., Saturday 9:00 a.m. to 2:00 p.m., closed Sunday. Front desk: 720-865-0730.",
+      "beginner_friendly_notes": "The outdoor courts at Eisenhower Park are DPR's quiet equipment pilot. Only the Librarian Foam Pickleball is allowed, and using any other ball can bring a $100 fine and possible exclusion from the courts, per the DPR Park Amenities page. Quiet balls are available for check-out at the recreation center. Skill levels for indoor sessions are not published, so ask the front desk which sessions suit newer players.",
+      "fees": "Gym drop-in requires a current Denver recreation center membership or visit pass. Per the DPR Recreation Center Memberships page, a single visit pass at a Local level center is $5.50 for adults ages 25 to 64, $4 for ages 19 to 24, and $3 for ages 65 and older. The center page says youth and adults age 60 and older who live in Denver can get free membership through the MY Denver Card and My Denver Prime programs.",
+      "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Recreation-Centers-Pools-Activities/Recreation-Centers/Eisenhower-Recreation-Center",
+      "source_label": "DPR Eisenhower Recreation Center page (denvergov.org)",
+      "last_checked": "2026-11-24",
+      "court_info": "Indoor gym with pickleball listed as a center feature, plus outdoor quiet courts at Eisenhower Park, per DPR. Court counts not published on these pages.",
+      "lights": null
+    },
+    {
+      "name": "Harvey Park Recreation Center",
+      "address": "2120 S. Tennyson Way, Denver, CO 80219",
+      "open_play_times": "Indoor pickleball hours are posted on the center's gymnasium schedule, which is linked from the center page. Center hours on the page: Monday through Friday 9:00 a.m. to 8:00 p.m., Saturday 9:00 a.m. to 2:00 p.m., closed Sunday. Front desk: 720-865-0550.",
+      "beginner_friendly_notes": "DPR lists Harvey Park among the recreation centers with indoor pickleball, and the center page lists a pickleball court as a feature. Skill levels are not published, so ask the front desk which sessions suit newer players.",
+      "fees": "Gym drop-in requires a current Denver recreation center membership or visit pass. Per the DPR Recreation Center Memberships page, a single visit pass at a Local level center is $5.50 for adults ages 25 to 64, $4 for ages 19 to 24, and $3 for ages 65 and older. The center page says youth and adults age 60 and older who live in Denver can get free membership through the MY Denver Card and My Denver Prime programs.",
+      "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Recreation-Centers-Pools-Activities/Recreation-Centers/Harvey-Park-Recreation-Center",
+      "source_label": "DPR Harvey Park Recreation Center page (denvergov.org)",
+      "last_checked": "2026-11-24",
+      "court_info": "Indoor gym. Court count not published.",
+      "lights": null
+    },
+    {
+      "name": "Harvard Gulch Recreation Center",
+      "address": "550 E. Iliff Ave., Denver, CO 80210",
+      "open_play_times": "Indoor pickleball hours are posted on the center's gymnasium schedule, which is linked from the center page. Center hours on the page: Monday through Friday 9:00 a.m. to 8:00 p.m., Saturday 9:00 a.m. to 3:00 p.m., closed Sunday. Front desk: 720-865-0905.",
+      "beginner_friendly_notes": "DPR's Park Amenities page lists Harvard Gulch among the recreation centers with indoor pickleball. Skill levels are not published, so ask the front desk which sessions suit newer players.",
+      "fees": "Gym drop-in requires a current Denver recreation center membership or visit pass. Per the DPR Recreation Center Memberships page, a single visit pass at a Local level center is $5.50 for adults ages 25 to 64, $4 for ages 19 to 24, and $3 for ages 65 and older. The center page says youth and adults age 60 and older who live in Denver can get free membership through the MY Denver Card and My Denver Prime programs.",
+      "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Recreation-Centers-Pools-Activities/Recreation-Centers/Harvard-Gulch-Recreation-Center",
+      "source_label": "DPR Harvard Gulch Recreation Center page (denvergov.org)",
+      "last_checked": "2026-11-24",
+      "court_info": "Indoor gym. Court count not published.",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}

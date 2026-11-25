@@ -1,0 +1,69 @@
+{
+  "slug": "salt-lake-city-ut",
+  "name": "Salt Lake City, UT",
+  "region": "Utah",
+  "intro": "A few example venues, verified on Salt Lake City Public Lands pages at slc.gov and Salt Lake County Parks & Recreation pages at saltlakecounty.gov as of November 24, 2026. This is not a complete list. The city's pickleball and tennis rules page says outdoor courts are free, open to the public, and non-reservable. When courts are full and players are waiting, play is limited to groups of four, and each group plays a single game to 11 points before yielding the court to the next group in line. A Salt Lake City Public Lands announcement lists the city's pickleball court locations, including some sites that were not yet completed when it was published. For indoor play, Salt Lake County recreation centers list drop-in or open court pickleball. Weather and schedules change, so check the official page before you go. New to open play? Start with the national guides linked below, including our etiquette guide, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Glendale Park",
+      "address": "1200 W 1700 S, Salt Lake City, UT 84104",
+      "open_play_times": "Outdoor courts, no open play schedule published. City courts are non-reservable, so play is first come, first served. Park hours are not published on the park page.",
+      "beginner_friendly_notes": "Courts are free and non-reservable, per the SLC pickleball and tennis rules page. When courts are full and players are waiting, play is limited to groups of four, waiting players line up as a group using a system such as stacked paddles, and each group plays a single game to 11 points, then yields the court. The Glendale Park page lists a restroom and drinking fountain. Address from the SLC Find a Park page.",
+      "fees": "Free, per the SLC pickleball and tennis rules page.",
+      "source_url": "https://www.slc.gov/parks/12-new-pickleball-courts-have-officially-opened-at-glendale-park-is-your-head-in-the-game/",
+      "source_label": "Salt Lake City Public Lands Glendale Park pickleball announcement (slc.gov)",
+      "last_checked": "2026-11-24",
+      "court_info": "12 outdoor pickleball courts, converted from four tennis courts, per the city announcement. Nets not described.",
+      "lights": null
+    },
+    {
+      "name": "Fairmont Park",
+      "address": "1040 E Sugarmont Dr, Salt Lake City, UT 84106",
+      "open_play_times": "Outdoor courts, no open play schedule published. City courts are non-reservable, so play is first come, first served. Park hours are not published on the park page.",
+      "beginner_friendly_notes": "Courts are free and non-reservable, per the SLC pickleball and tennis rules page. When courts are full and players are waiting, play is limited to groups of four, waiting players line up as a group using a system such as stacked paddles, and each group plays a single game to 11 points, then yields the court. The Fairmont Park page lists restrooms at three locations and drinking fountains throughout the park. Address from the SLC Find a Park page.",
+      "fees": "Free, per the SLC pickleball and tennis rules page.",
+      "source_url": "https://www.slc.gov/parks/parks-division/fairmont-park/",
+      "source_label": "Salt Lake City Public Lands Fairmont Park page (slc.gov)",
+      "last_checked": "2026-11-24",
+      "court_info": "6 outdoor pickleball courts, per the park page. Nets not described.",
+      "lights": null
+    },
+    {
+      "name": "5th Ave & C Street Pickleball",
+      "address": "230 C St E, Salt Lake City, UT 84103",
+      "open_play_times": "Outdoor courts, no open play schedule published. City courts are non-reservable, so play is first come, first served. Hours not published.",
+      "beginner_friendly_notes": "Courts are free and non-reservable, per the SLC pickleball and tennis rules page. When courts are full and players are waiting, play is limited to groups of four, waiting players line up as a group using a system such as stacked paddles, and each group plays a single game to 11 points, then yields the court. The city page lists pickleball courts as the only amenity, so restrooms are not listed. Address from the SLC Find a Park page.",
+      "fees": "Free, per the SLC pickleball and tennis rules page.",
+      "source_url": "https://www.slc.gov/parks/12-new-pickleball-courts-have-officially-opened-at-glendale-park-is-your-head-in-the-game/",
+      "source_label": "Salt Lake City Public Lands pickleball court locations list (slc.gov)",
+      "last_checked": "2026-11-24",
+      "court_info": "2 outdoor pickleball courts, per the city's court locations list. Nets not described.",
+      "lights": null
+    },
+    {
+      "name": "Central City Recreation Center (Salt Lake County)",
+      "address": "615 South 300 East, Salt Lake City, UT 84111",
+      "open_play_times": "Indoor drop-in pickleball on Mondays, 6:00 p.m. to 8:30 p.m., per the center page. Facility hours on the page: Monday through Thursday 7:00 a.m. to 9:00 p.m., Friday 7:00 a.m. to 8:00 p.m., Saturday 9:00 a.m. to 2:00 p.m., closed Sunday. The page lists closures on major holidays, including Thanksgiving and the day after. Front desk: 385-468-1550.",
+      "beginner_friendly_notes": "Skill levels are not published for the drop-in session, so call the front desk to ask whether newer players are welcome. The center page lists a contact for pickleball questions.",
+      "fees": "Drop-in fee not published on the center page, which points to the Salt Lake County fees page for rates.",
+      "source_url": "https://www.saltlakecounty.gov/parks-recreation/facilities-and-golf/Recreation-Centers/Central-City/",
+      "source_label": "Salt Lake County Central City Recreation Center page (saltlakecounty.gov)",
+      "last_checked": "2026-11-24",
+      "court_info": "Indoor gym with 2 pickleball courts, per the center page.",
+      "lights": null
+    },
+    {
+      "name": "Sorenson Multi-Cultural Center (Salt Lake County)",
+      "address": "855 West California Ave, Salt Lake City, UT 84104",
+      "open_play_times": "The center page lists open court time for pickleball in its small and large gyms, but pickleball times are not published. Call 385-468-1300 for current open court times. Facility hours on the page: Monday through Thursday 8:00 a.m. to 9:00 p.m., Friday 8:00 a.m. to 8:00 p.m., Saturday 9:00 a.m. to 5:00 p.m., Sunday 10:00 a.m. to 2:30 p.m.",
+      "beginner_friendly_notes": "The center page says the center is a joint effort between Salt Lake City Corporation and Salt Lake County Parks and Recreation, and that anyone may buy a pass regardless of where they live. Skill levels are not published, so ask the front desk which open court times suit newer players.",
+      "fees": "Gym daily admittance on the center page: $2 for adults ages 18 to 61, $0.50 for youth ages 3 to 17. A senior gym rate is not published.",
+      "source_url": "https://www.saltlakecounty.gov/parks-recreation/facilities-and-golf/Recreation-Centers/Sorenson/",
+      "source_label": "Salt Lake County Sorenson Multi-Cultural Center page (saltlakecounty.gov)",
+      "last_checked": "2026-11-24",
+      "court_info": "Indoor small and large gyms. Pickleball court count not published.",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}
