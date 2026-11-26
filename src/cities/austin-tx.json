@@ -1,0 +1,105 @@
+{
+  "slug": "austin-tx",
+  "name": "Austin, TX",
+  "region": "Texas",
+  "intro": "A few example venues, verified on the Austin Parks and Recreation pickleball page at austintexas.gov as of November 25, 2026. This is not a complete list. That page lists official city pickleball locations, including outdoor park courts and indoor open play at recreation centers. City court rules say play is first come, first served unless noted, and if others are waiting, keep tennis or pickleball play to 60 minutes. Some multi-purpose courts ask you to bring your own portable net, and taping or painting lines is not allowed. Schedules change, so check the official page or call the center before you go. New to open play? Start with the national guides linked below, including our etiquette guide, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Parque Zaragoza Recreation Center",
+      "address": "2608 Gonzales St., Austin, TX",
+      "open_play_times": "Open play Mondays, 6:00 to 8:30 p.m. Phone: (512) 978-2460.",
+      "beginner_friendly_notes": "Nets, paddles, and balls are available for checkout at the front desk, first come, first served, so you can try the game before buying gear. The city page also lists free beginner classes here in December (True Beginner 1:00 to 2:30 p.m., Intermediate Beginner 2:30 to 4:00 p.m.), with registration opening December 1 at 9 a.m. The page gives the class dates as December 5 and 19 in one place and December 5 and 9 in another, so confirm the date with the center.",
+      "fees": "Open play fee not listed on the city page. The page describes the December beginner classes as free.",
+      "source_url": "https://www.austintexas.gov/parks/programs/pickleball",
+      "source_label": "Austin Parks and Recreation pickleball page (austintexas.gov)",
+      "last_checked": "2026-11-25",
+      "court_info": "3 indoor courts.",
+      "lights": null
+    },
+    {
+      "name": "Austin Recreation Center",
+      "address": "1301 Shoal Creek Blvd., Austin, TX",
+      "open_play_times": "Open play Monday and Friday, 9 a.m. to 12 p.m. Phone: (512) 978-2370.",
+      "beginner_friendly_notes": "Indoor weekday morning sessions. Skill levels are not published, so ask the front desk how newer players usually join in.",
+      "fees": "Not listed on the Austin Parks and Recreation pickleball page. Call the center to ask before you go.",
+      "source_url": "https://www.austintexas.gov/parks/programs/pickleball",
+      "source_label": "Austin Parks and Recreation pickleball page (austintexas.gov)",
+      "last_checked": "2026-11-25",
+      "court_info": "Three multi-purpose indoor courts.",
+      "lights": null
+    },
+    {
+      "name": "Dittmar Recreation Center",
+      "address": "1009 W. Dittmar Rd., Austin, TX",
+      "open_play_times": "Open play Tuesday and Thursday, 12 p.m. to 3 p.m., and Saturday, 10 a.m. to 2 p.m. Phone: (512) 974-6090.",
+      "beginner_friendly_notes": "Includes a Saturday session, which helps if you work weekdays. Skill levels are not published.",
+      "fees": "Not listed on the Austin Parks and Recreation pickleball page. Call the center to ask before you go.",
+      "source_url": "https://www.austintexas.gov/parks/programs/pickleball",
+      "source_label": "Austin Parks and Recreation pickleball page (austintexas.gov)",
+      "last_checked": "2026-11-25",
+      "court_info": "Four multi-purpose indoor courts.",
+      "lights": null
+    },
+    {
+      "name": "George Morales Dove Springs Recreation Center",
+      "address": "5801 Ainez Drive, Austin, TX",
+      "open_play_times": "Open play Monday 9 a.m. to 12 p.m., Wednesday 6 p.m. to 8:30 p.m., and Friday 9 a.m. to 12 p.m. Phone: (512) 974-3840.",
+      "beginner_friendly_notes": "Offers both morning and Wednesday evening sessions. Skill levels are not published.",
+      "fees": "Not listed on the Austin Parks and Recreation pickleball page. Call the center to ask before you go.",
+      "source_url": "https://www.austintexas.gov/parks/programs/pickleball",
+      "source_label": "Austin Parks and Recreation pickleball page (austintexas.gov)",
+      "last_checked": "2026-11-25",
+      "court_info": "3 indoor courts.",
+      "lights": null
+    },
+    {
+      "name": "Dottie Jordan Recreation Center",
+      "address": "2803 Loyola Lane, Austin, TX",
+      "open_play_times": "Open play Thursday, 4 p.m. to 7 p.m. Phone: (512) 978-2380.",
+      "beginner_friendly_notes": "Nets, paddles, and balls are available for checkout at the center, with equipment rental available until 6 p.m., per the city page.",
+      "fees": "Not listed on the Austin Parks and Recreation pickleball page. Call the center to ask before you go.",
+      "source_url": "https://www.austintexas.gov/parks/programs/pickleball",
+      "source_label": "Austin Parks and Recreation pickleball page (austintexas.gov)",
+      "last_checked": "2026-11-25",
+      "court_info": "2 outdoor tennis courts used for pickleball.",
+      "lights": null
+    },
+    {
+      "name": "Little Zilker Neighborhood Park",
+      "address": "2016 Bluebonnet Ln., Austin, TX 78704",
+      "open_play_times": "Open play 7 days a week, 7 a.m. to 10 p.m.",
+      "beginner_friendly_notes": "Outdoor multi-purpose court, first come, first served under city court rules. The city links multi-sport net system instructions for this park.",
+      "fees": "Not listed on the Austin Parks and Recreation pickleball page. Call the center to ask before you go.",
+      "source_url": "https://www.austintexas.gov/parks/programs/pickleball",
+      "source_label": "Austin Parks and Recreation pickleball page (austintexas.gov)",
+      "last_checked": "2026-11-25",
+      "court_info": "1 multi-purpose outdoor court with striping for 4 pickleball courts.",
+      "lights": true
+    },
+    {
+      "name": "South Austin Neighborhood Park and South Austin Recreation Center",
+      "address": "1100 Cumberland Rd., Austin, TX 78704",
+      "open_play_times": "Outdoor courts: open play 7 days a week, 8 a.m. to 10 p.m. Indoor at the recreation center: all ages open play Tuesday, 7 p.m. to 9 p.m., and Varsity Generation open play Tuesday and Friday, 11 a.m. to 2 p.m. Recreation center phone: (512) 978-2440.",
+      "beginner_friendly_notes": "One address with both dedicated outdoor courts and an indoor evening session, so you have a fallback if the weather turns.",
+      "fees": "Not listed on the Austin Parks and Recreation pickleball page. Call the center to ask before you go.",
+      "source_url": "https://www.austintexas.gov/parks/programs/pickleball",
+      "source_label": "Austin Parks and Recreation pickleball page (austintexas.gov)",
+      "last_checked": "2026-11-25",
+      "court_info": "2 dedicated outdoor courts in the park. Indoors, 1 multi-purpose court with striping for 4 pickleball courts.",
+      "lights": true
+    },
+    {
+      "name": "Austin Tennis and Pickleball Center at Walnut Creek Sports Park",
+      "address": "7800 Johnny Morris Rd., Austin, Texas 78724",
+      "open_play_times": "Reservations required. Monday to Friday, 8:30 a.m. to 10:00 p.m.; Saturday and Sunday, 8:30 a.m. to 9:00 p.m.",
+      "beginner_friendly_notes": "Courts here are reserved rather than drop-in, which suits a planned session with friends or a lesson. See our guide to reading a parks reservation page.",
+      "fees": "Not listed on the city pickleball page. Check the reservation page for current rates.",
+      "source_url": "https://www.austintexas.gov/parks/programs/pickleball",
+      "source_label": "Austin Parks and Recreation pickleball page (austintexas.gov)",
+      "last_checked": "2026-11-25",
+      "court_info": "8 outdoor pickleball courts.",
+      "lights": true
+    }
+  ],
+  "show_aikai_feature": true
+}

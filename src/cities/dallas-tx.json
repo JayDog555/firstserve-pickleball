@@ -1,0 +1,57 @@
+{
+  "slug": "dallas-tx",
+  "name": "Dallas, TX",
+  "region": "Texas",
+  "intro": "A short starter list, verified on Dallas Park and Recreation pages at dallasparks.org as of November 25, 2026. The department's Additional Sports page names four recreation centers that currently offer pickleball: Fretz, Harry Stone, Lake Highlands, and Timberglen. The city pages we checked do not publish pickleball session times, so this page lists each center's address, phone, and posted hours, and we will add schedules only when an official page shows them. Everyone who uses a Dallas recreation center needs a Recreation Card. Centers close on major holidays. New to open play? Start with the national guides linked below, including our guide to indoor drop-in, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Harry Stone Recreation Center",
+      "address": "2403 Millmar, Dallas, TX 75228",
+      "open_play_times": "Pickleball times not published on the center page. Center hours: Monday through Thursday 9:00 a.m. to 8:00 p.m., Friday 2:00 p.m. to 7:00 p.m., Saturday 9:00 a.m. to 2:00 p.m., closed Sunday. Phone: 214-670-0949.",
+      "beginner_friendly_notes": "Dallas Park and Recreation lists this center among those that currently offer pickleball. Session days, times, and skill levels are not published on the center page, so call or check the center's daily calendar before you go. The center page says it has two full size gymnasiums.",
+      "fees": "A Dallas Recreation Card is required to use recreation centers. Per the Dallas Park and Recreation General Recreation Information page, the card is $15 for adults 18 to 59 who live in Dallas, $10 for ages 60 and older, $25 for non-residents 18 and older, and free for ages 17 and under, valid for one year. A $5 daily drop-in fee applies when a valid card is not presented.",
+      "source_url": "https://www.dallasparks.org/Facilities/Facility/Details/Harry-Stone-Recreation-Center-374",
+      "source_label": "Dallas Park and Recreation Harry Stone Recreation Center page (dallasparks.org)",
+      "last_checked": "2026-11-25",
+      "court_info": "Indoor gymnasiums. Pickleball court count not published.",
+      "lights": null
+    },
+    {
+      "name": "Timberglen Recreation Center",
+      "address": "3810 Timberglen Rd, Dallas, TX 75287",
+      "open_play_times": "Pickleball times not published on the center page. Center hours: Monday through Thursday 9:00 a.m. to 8:00 p.m., Friday 2:00 p.m. to 7:00 p.m., closed Saturday and Sunday. Phone: 214-671-0644.",
+      "beginner_friendly_notes": "Dallas Park and Recreation lists this center among those that currently offer pickleball. Session days, times, and skill levels are not published on the center page, so call or check the center's daily calendar before you go.",
+      "fees": "A Dallas Recreation Card is required to use recreation centers. Per the Dallas Park and Recreation General Recreation Information page, the card is $15 for adults 18 to 59 who live in Dallas, $10 for ages 60 and older, $25 for non-residents 18 and older, and free for ages 17 and under, valid for one year. A $5 daily drop-in fee applies when a valid card is not presented.",
+      "source_url": "https://www.dallasparks.org/Facilities/Facility/Details/Timberglen-Recreation-Center-744",
+      "source_label": "Dallas Park and Recreation Timberglen Recreation Center page (dallasparks.org)",
+      "last_checked": "2026-11-25",
+      "court_info": "Indoor gymnasium. Pickleball court count not published.",
+      "lights": null
+    },
+    {
+      "name": "Fretz Recreation Center",
+      "address": "6994 Beltline Rd., Dallas, TX 75254",
+      "open_play_times": "Pickleball times not published on the city pages we checked. Phone: 214-670-6203.",
+      "beginner_friendly_notes": "Dallas Park and Recreation lists this center among those that currently offer pickleball. Session days, times, and skill levels are not published on the center page, so call or check the center's daily calendar before you go.",
+      "fees": "A Dallas Recreation Card is required to use recreation centers. Per the Dallas Park and Recreation General Recreation Information page, the card is $15 for adults 18 to 59 who live in Dallas, $10 for ages 60 and older, $25 for non-residents 18 and older, and free for ages 17 and under, valid for one year. A $5 daily drop-in fee applies when a valid card is not presented.",
+      "source_url": "https://www.dallasparks.org/160/Recreation-Centers",
+      "source_label": "Dallas Park and Recreation Recreation Facilities page (dallasparks.org)",
+      "last_checked": "2026-11-25",
+      "court_info": "Court count not published.",
+      "lights": null
+    },
+    {
+      "name": "Lake Highlands Recreation Center",
+      "address": "9940 White Rock Trail, Dallas, TX 75238",
+      "open_play_times": "Pickleball times not published on the city pages we checked. Phone: 214-670-7794.",
+      "beginner_friendly_notes": "Dallas Park and Recreation lists this center among those that currently offer pickleball. Session days, times, and skill levels are not published on the center page, so call or check the center's daily calendar before you go.",
+      "fees": "A Dallas Recreation Card is required to use recreation centers. Per the Dallas Park and Recreation General Recreation Information page, the card is $15 for adults 18 to 59 who live in Dallas, $10 for ages 60 and older, $25 for non-residents 18 and older, and free for ages 17 and under, valid for one year. A $5 daily drop-in fee applies when a valid card is not presented.",
+      "source_url": "https://www.dallasparks.org/160/Recreation-Centers",
+      "source_label": "Dallas Park and Recreation Recreation Facilities page (dallasparks.org)",
+      "last_checked": "2026-11-25",
+      "court_info": "Court count not published.",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}
