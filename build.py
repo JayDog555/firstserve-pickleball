@@ -279,6 +279,7 @@ def city_national_nav(config: dict) -> str:
         (href_for("/guides/parks-reservation-page/", base_path), "Reading a reservation page"),
         (href_for("/guides/ratings-and-skill-levels/", base_path), "Ratings and skill levels"),
         (href_for("/guides/etiquette/", base_path), "Etiquette for beginners"),
+        (href_for("/guides/kitchen-rule/", base_path), "The kitchen rule"),
     ]
     items = "".join(
         f'<a href="{escape(href, quote=True)}">{escape(label)}</a>'
@@ -301,7 +302,7 @@ def render_cities_hub(cities: list[dict], rollout: dict, base_path: str) -> str:
         "<h1>Cities across the United States</h1>",
         "<p class='lede'>Beginner pickleball open play near you, anywhere in the US.</p>",
         "<p>We add a city page only after venues are verified on official parks or venue "
-        "websites. Orange County, CA, Los Angeles, CA, San Diego, CA, Phoenix, AZ, Las Vegas, NV, Portland, OR, and Seattle, WA are live. Other cities on the rollout "
+        "websites. Orange County, CA, Los Angeles, CA, San Diego, CA, Phoenix, AZ, Las Vegas, NV, Portland, OR, Seattle, WA, Salt Lake City, UT, Denver, CO, Austin, TX, Dallas, TX, and Houston, TX are live. Other cities on the rollout "
         "list are marked coming soon and are not linked until a page exists.</p>",
         "</article>",
     ]
@@ -503,6 +504,7 @@ def write_page(
         "reservations_href": href_for("/guides/parks-reservation-page/", base_path),
         "ratings_href": href_for("/guides/ratings-and-skill-levels/", base_path),
         "etiquette_href": href_for("/guides/etiquette/", base_path),
+        "kitchen_href": href_for("/guides/kitchen-rule/", base_path),
         "coaches_href": href_for("/coaches/", base_path),
         "about_href": href_for("/about/", base_path),
         "aria_home": nav_current(permalink, "/"),
@@ -515,6 +517,7 @@ def write_page(
         "aria_reservations": nav_current(permalink, "/guides/parks-reservation-page/"),
         "aria_ratings": nav_current(permalink, "/guides/ratings-and-skill-levels/"),
         "aria_etiquette": nav_current(permalink, "/guides/etiquette/"),
+        "aria_kitchen": nav_current(permalink, "/guides/kitchen-rule/"),
         "aria_coaches": nav_current(permalink, "/coaches/"),
         "aria_about": nav_current(permalink, "/about/"),
         "content": body,
@@ -635,7 +638,7 @@ def main() -> None:
         config,
         permalink="/cities/",
         title="Cities across the United States",
-        meta_description="Find beginner pickleball open play near you, anywhere in the US. Orange County, CA, Los Angeles, CA, San Diego, CA, Phoenix, AZ, Las Vegas, NV, Portland, OR, and Seattle, WA are live, with more cities coming soon.",
+        meta_description="Find beginner pickleball open play near you, anywhere in the US. Orange County, CA, Los Angeles, CA, San Diego, CA, Phoenix, AZ, Las Vegas, NV, Portland, OR, Seattle, WA, Salt Lake City, UT, Denver, CO, Austin, TX, Dallas, TX, and Houston, TX are live, with more cities coming soon.",
         body=cities_index_body,
         cities=cities,
     )

@@ -1,0 +1,105 @@
+{
+  "slug": "houston-tx",
+  "name": "Houston, TX",
+  "region": "Texas",
+  "intro": "A starter list, verified on the Houston Parks and Recreation Department pickleball page at houstontx.gov as of November 26, 2026. The city lists indoor open play at several community centers, with days and times posted, and outdoor courts in neighborhood parks on a first come, first served basis. The city page lists 17 outdoor parks, each with 2 courts, and most of those courts are shared with tennis courts. This page lists the indoor open play centers plus Jaycee Park, which has dedicated outdoor courts. The city page says players must bring their own nets except at Alief and Jaycee Park. It does not publish fees or skill levels, so call the center before your first visit. New to open play? Start with the national guides linked below, including our guides to indoor drop-in and the kitchen rule, or browse all US cities.",
+  "venues": [
+    {
+      "name": "Fonde Recreation Center",
+      "address": "110 Sabine, Houston, TX 77007",
+      "open_play_times": "Indoor open play listed on the city page: Tuesday 5:30 p.m. to 8:00 p.m. and Saturday 8:00 a.m. to 10:00 a.m. Phone: 832-395-7422.",
+      "beginner_friendly_notes": "The city page says players must bring their own nets at all locations except Alief and Jaycee Park. Skill levels are not stated, so call the center to ask whether newer players are common at this session.",
+      "fees": "Fees not published on the city pickleball page. Call the center to ask.",
+      "source_url": "https://www.houstontx.gov/parks/pickleballcourts.html",
+      "source_label": "Houston Parks and Recreation Department Pickleball Courts page (houstontx.gov)",
+      "last_checked": "2026-11-26",
+      "court_info": "8 indoor courts, per the city page.",
+      "lights": null
+    },
+    {
+      "name": "Judson Robinson, Jr. Community Center",
+      "address": "2020 Hermann Drive, Houston, TX 77004",
+      "open_play_times": "Indoor open play listed on the city page: Wednesday and Friday 9:00 a.m. to 12:00 p.m., and Monday 6:00 p.m. to 8:30 p.m. Phone: 832-395-7626.",
+      "beginner_friendly_notes": "The city page says players must bring their own nets at all locations except Alief and Jaycee Park. Skill levels are not stated, so call the center to ask whether newer players are common at this session.",
+      "fees": "Fees not published on the city pickleball page. Call the center to ask.",
+      "source_url": "https://www.houstontx.gov/parks/pickleballcourts.html",
+      "source_label": "Houston Parks and Recreation Department Pickleball Courts page (houstontx.gov)",
+      "last_checked": "2026-11-26",
+      "court_info": "2 indoor courts, per the city page.",
+      "lights": null
+    },
+    {
+      "name": "Kendal Community Center",
+      "address": "609 N. Eldridge, Houston, TX 77079",
+      "open_play_times": "Indoor open play listed on the city page: Wednesday and Friday 12:00 p.m. to 3:00 p.m., and Saturday 10:00 a.m. to 12:00 p.m. Phone: 832-393-1897.",
+      "beginner_friendly_notes": "The city page says players must bring their own nets at all locations except Alief and Jaycee Park. Skill levels are not stated, so call the center to ask whether newer players are common at this session.",
+      "fees": "Fees not published on the city pickleball page. Call the center to ask.",
+      "source_url": "https://www.houstontx.gov/parks/pickleballcourts.html",
+      "source_label": "Houston Parks and Recreation Department Pickleball Courts page (houstontx.gov)",
+      "last_checked": "2026-11-26",
+      "court_info": "Indoor. Court count not published.",
+      "lights": null
+    },
+    {
+      "name": "Tidwell Community Center",
+      "address": "9720 Spaulding, Houston, TX 77016",
+      "open_play_times": "Indoor open play listed on the city page: Monday, Tuesday, and Friday 10:00 a.m. to 2:00 p.m. Phone: 713-636-8221.",
+      "beginner_friendly_notes": "The city page says players must bring their own nets at all locations except Alief and Jaycee Park. Skill levels are not stated, so call the center to ask whether newer players are common at this session.",
+      "fees": "Fees not published on the city pickleball page. Call the center to ask.",
+      "source_url": "https://www.houstontx.gov/parks/pickleballcourts.html",
+      "source_label": "Houston Parks and Recreation Department Pickleball Courts page (houstontx.gov)",
+      "last_checked": "2026-11-26",
+      "court_info": "3 indoor courts, per the city page.",
+      "lights": null
+    },
+    {
+      "name": "North Wayside Sports and Recreation Center",
+      "address": "9551 N. Wayside Dr, Houston, TX 77028",
+      "open_play_times": "Indoor open play listed on the city page: Tuesday 6:15 p.m. to 7:45 p.m., and Wednesday and Thursday 10:15 a.m. to 11:45 a.m. Phone: 713-633-0281.",
+      "beginner_friendly_notes": "The city page says players must bring their own nets at all locations except Alief and Jaycee Park. Skill levels are not stated, so call the center to ask whether newer players are common at this session.",
+      "fees": "Fees not published on the city pickleball page. Call the center to ask.",
+      "source_url": "https://www.houstontx.gov/parks/pickleballcourts.html",
+      "source_label": "Houston Parks and Recreation Department Pickleball Courts page (houstontx.gov)",
+      "last_checked": "2026-11-26",
+      "court_info": "3 indoor courts, per the city page.",
+      "lights": null
+    },
+    {
+      "name": "Alief Park",
+      "address": "11903 Bellaire Blvd, Houston, TX 77072",
+      "open_play_times": "Indoor open play listed on the city page: Tuesday 12:00 p.m. to 3:00 p.m., and a Friday session starting at 6:00 p.m. The Friday end time is printed as 8:00 a.m., so call to confirm. Phone: 281-564-8130.",
+      "beginner_friendly_notes": "The city page says nets are provided here, one of two exceptions to the bring-your-own-net rule. The park also has 2 outdoor courts shared on the tennis courts, first come, first served. Skill levels are not stated.",
+      "fees": "Fees not published on the city pickleball page. Call the center to ask.",
+      "source_url": "https://www.houstontx.gov/parks/pickleballcourts.html",
+      "source_label": "Houston Parks and Recreation Department Pickleball Courts page (houstontx.gov)",
+      "last_checked": "2026-11-26",
+      "court_info": "Indoor court count not published. 2 outdoor courts shared on tennis courts, per the city page.",
+      "lights": null
+    },
+    {
+      "name": "Jaycee Park",
+      "address": "1300 Seamist, Houston, TX 77008",
+      "open_play_times": "No scheduled open play listed. Outdoor courts are first come, first served.",
+      "beginner_friendly_notes": "The city page lists 2 dedicated pickleball courts next to the tennis courts and says nets are provided here. Good for practice with a friend or a small group when the courts are free.",
+      "fees": "Fees not published on the city pickleball page. Call the center to ask.",
+      "source_url": "https://www.houstontx.gov/parks/pickleballcourts.html",
+      "source_label": "Houston Parks and Recreation Department Pickleball Courts page (houstontx.gov)",
+      "last_checked": "2026-11-26",
+      "court_info": "2 dedicated outdoor courts adjacent to tennis courts, per the city page.",
+      "lights": null
+    },
+    {
+      "name": "Metropolitan Multi-Service Center (Adaptive Recreation)",
+      "address": "1475 West Gray, Houston, TX 77019",
+      "open_play_times": "Indoor open play listed on the city page: Tuesday 8:00 a.m. to 12:00 p.m. No phone number is listed on the pickleball page.",
+      "beginner_friendly_notes": "The city page lists this center under Adaptive Recreation. It also lists 2 outdoor courts shared on the tennis courts, first come, first served. Bring your own net. Call the center to ask who the Tuesday session is for before you go.",
+      "fees": "Fees not published on the city pickleball page. Call the center to ask.",
+      "source_url": "https://www.houstontx.gov/parks/pickleballcourts.html",
+      "source_label": "Houston Parks and Recreation Department Pickleball Courts page (houstontx.gov)",
+      "last_checked": "2026-11-26",
+      "court_info": "2 indoor courts and 2 outdoor courts shared on tennis courts, per the city page.",
+      "lights": null
+    }
+  ],
+  "show_aikai_feature": true
+}
