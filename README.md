@@ -1,6 +1,6 @@
 # First Serve Pickleball
 
-A small static directory of beginner-friendly pickleball open play and first-gear advice, for players anywhere in the United States. Owned by Jay Oku. Orange County, CA was the first live city page, followed by Los Angeles, CA, San Diego, CA, Phoenix, AZ, Las Vegas, NV, Portland, OR, Seattle, WA, Salt Lake City, UT, Denver, CO, Austin, TX, Dallas, TX, and Houston, TX.
+A small static directory of beginner-friendly pickleball open play and first-gear advice, for players anywhere in the United States. Owned by Jay Oku. Orange County, CA was the first live city page, followed by Los Angeles, CA, San Diego, CA, Phoenix, AZ, Las Vegas, NV, Portland, OR, Seattle, WA, Salt Lake City, UT, Denver, CO, Austin, TX, Dallas, TX, Houston, TX, and Chicago, IL.
 
 The public site name is set in one place: `src/config.json` (`site_name`). Change it there and rebuild.
 
@@ -33,6 +33,7 @@ Source lives in `src/`. The build writes HTML, CSS, `sitemap.xml`, and `robots.t
 | `src/pages/ratings-and-skill-levels.md` | `dist/guides/ratings-and-skill-levels/index.html` |
 | `src/pages/etiquette.md` | `dist/guides/etiquette/index.html` |
 | `src/pages/kitchen-rule.md` | `dist/guides/kitchen-rule/index.html` |
+| `src/pages/scoring.md` | `dist/guides/scoring/index.html` |
 | `src/rollout.json` | national cities hub at `dist/cities/index.html` |
 | `src/cities/*.json` | `dist/cities/<slug>/index.html` |
 | `src/partials/aikai.html` | inserted wherever `{{FEATURE:aikai}}` appears, if `features.aikai` is true |
@@ -53,13 +54,14 @@ National guides:
 - Ratings and skill levels explained (live)
 - Etiquette (live)
 - The kitchen rule explained (live)
+- Pickleball scoring explained (live)
 - Coach Referral Program (live)
 
 City rollout (only live cities are linked on the site; coming-soon names are plain text):
 
 - West: Orange County, CA (live), Los Angeles, CA (live), San Diego, CA (live), Phoenix, AZ (live), Las Vegas, NV (live), Portland, OR (live), Seattle, WA (live), Salt Lake City, UT (live), Denver, CO (live)
 - South Central: Austin, TX (live), Dallas, TX (live), Houston, TX (live)
-- Midwest: Chicago
+- Midwest: Chicago, IL (live)
 - Southeast: Atlanta, Nashville, Charlotte, Tampa, Orlando, Miami, Naples, FL
 - Northeast: New York City, Boston, Philadelphia, Washington, DC
 

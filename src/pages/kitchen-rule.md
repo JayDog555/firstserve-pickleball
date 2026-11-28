@@ -76,6 +76,7 @@ It is a fault if you volley while:
 - Ready to play? See [how to find beginner-friendly open play](/guides/find-open-play/).
 - Heading out for the first time? See [what to bring](/guides/what-to-bring/).
 - Learning the social side? See [pickleball etiquette for beginners](/guides/etiquette/).
+- Not sure how the score works? See [pickleball scoring explained](/guides/scoring/).
 - Want a coach to check your footwork? See [lessons and clinics](/guides/lessons-and-clinics/).
 - Find a city: browse our [US city list](/cities/).
 

@@ -114,6 +114,7 @@ If no limit is posted, a common practice is one game per group when people are w
 - Looking for structured help? See [lessons and clinics](/guides/lessons-and-clinics/).
 - Playing indoors? See [indoor drop-in](/guides/indoor-drop-in/).
 - Unsure about the non-volley zone? See [the kitchen rule explained](/guides/kitchen-rule/).
+- Still learning how the score works? See [pickleball scoring explained](/guides/scoring/).
 - Find a city: browse our [US city list](/cities/).
 
 If you coach or teach beginners, see our [Coach Referral Program](/coaches/).
